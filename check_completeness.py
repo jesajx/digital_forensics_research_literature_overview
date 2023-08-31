@@ -28,9 +28,9 @@ for doi,tags in tags_from_doi.items():
     tags_from_doi[doi] = new_tags
 
 
-done = {doi for doi,tags in tags_from_doi.items() if "contributionarea" in tags or "not research" in tags}
+done = {doi for doi,tags in tags_from_doi.items() if "contributionarea" in tags or "not research" in tags and doi in dois}
 
-num_tot = len(tags_from_doi)
+num_tot = len(dois)
 num_done = len(done)
 num_left = num_tot - num_done
 done_percentage = num_done / num_tot * 100
