@@ -1,14 +1,12 @@
 
 .PHONY: all clean test
 
-# Note: for convience we still git commit this file despite it being generated.
-ALL_DOIS_TXT := all_dois.txt
-
-all: $(ALL_DOIS_TXT)
+all: all_dois.txt
 
 clean:
 
-test: all
+test: 
+	./check_completeness.py
 
-$(ALL_DOIS_TXT): $(wildcard dois/*.txt)
+all_dois.txt: $(wildcard dois/*.txt)
 	cat $^ | grep -v '^$$' > "$@"
