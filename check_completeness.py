@@ -31,7 +31,7 @@ for doi, tags in tags_from_doi.items():
 done = {
     doi
     for doi, tags in tags_from_doi.items()
-    if "contributionarea" in tags or "not research" in tags and doi in dois
+    if ("contributionarea" in tags or "not research" in tags) and doi in dois
 }
 
 num_tot = len(dois)
