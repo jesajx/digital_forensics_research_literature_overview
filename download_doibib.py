@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
+import json
+import sys
 import shelve
+import re
 
 import requests
 import bibtexparser
@@ -40,5 +43,15 @@ with shelve.open("bibs.shelve") as db:
         )
         db[doi] = response.content.decode("utf-8").replace("%2F", "/")
 
-    res = {doi: bib_parse(bib) for doi, bib in db.items()}
-    json_put("bibs.json", res)
+    res = dict()
+    for doi, bib in tqdm(db.items()):
+        try:
+            bibdata = bib_parse(bib)
+        except ValueError:
+            print("ERROR: BAD BIB:", doi, file=sys.stderr)
+            continue
+        else:
+            res[doi] = bibdata
+
+    with open("bibs.json", "w") as file:
+        json.dump(res, file)
