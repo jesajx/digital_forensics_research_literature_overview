@@ -14,16 +14,16 @@ an overview of various subareas in the field.
 * More papers
 * TODO include theses, books, standards and tools?
 
-## Sources
+## Sources (for DOIs)
 * Digital Investigation: scopus (query: SRCTITLE({digital investigation})).
-* IFIP wg11.9: manually go through each book: https://link.springer.com/conference/digitalforensics
+* IFIP wg 11.9: manually go through each book: https://link.springer.com/conference/digitalforensics
+* IEEE Transactions on Information Forensics and Security (TIFS): 2023-08-31 scopus (query: SRCTITLE({Information Forensics and Security})).
+* IEEE International Workshop on Information Forensics and Security (WIFS): 2023-08-31 scopus (query: SRCTITLE({Information Forensics and Security})).
 
 
 more TODO:
 * TODO DFRWS (I suspect not everything is published as special issues of Digital Investigation, especially older papers).
-* TODO IEEE Transactions on Information Forensics and Security
 * TODO ARES WSDF?
-* TODO IEEE International Workshop on Information Forensics and Security (WIFS)?
 * TODO dead conferences
 * TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
 * TODO use citation graphs to find more venues (openalex, crossref, etc.)?
