@@ -10,7 +10,7 @@ with open("all_dois.txt") as file:
     dois = set(file.read().splitlines())
 
 
-for doi,tags in tags_from_doi.items():
+for doi, tags in tags_from_doi.items():
     new_tags = set()
 
     for k in tags:
@@ -28,14 +28,18 @@ for doi,tags in tags_from_doi.items():
     tags_from_doi[doi] = new_tags
 
 
-done = {doi for doi,tags in tags_from_doi.items() if "contributionarea" in tags or "not research" in tags and doi in dois}
+done = {
+    doi
+    for doi, tags in tags_from_doi.items()
+    if "contributionarea" in tags or "not research" in tags and doi in dois
+}
 
 num_tot = len(dois)
 num_done = len(done)
 num_left = num_tot - num_done
 done_percentage = num_done / num_tot * 100
 
-print(f'{num_done}/{num_tot} ({done_percentage:.2f}%) num_left={num_left}')
+print(f"{num_done}/{num_tot} ({done_percentage:.2f}%) num_left={num_left}")
 
 for doi in tags_from_doi:
     if doi not in done:
