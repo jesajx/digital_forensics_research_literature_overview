@@ -13,6 +13,8 @@ an overview of various subareas in the field.
   is non obvious and tend to drift through the process).
 * More papers
 * TODO include theses, books, standards and tools?
+* TODO tag quality of paper?
+* TODO tag outdatedness of paper?
 
 ## Sources (for DOIs)
 * Digital Investigation:

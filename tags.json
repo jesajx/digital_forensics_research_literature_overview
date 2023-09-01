@@ -7800,7 +7800,408 @@
 ],
 "10.1109/TIFS.2007.897265": [
   "contributionarea: steganography"
-]
+],
 
+
+"10.1109/ARES.2008.135": [
+  "contributionarea: network forensics"
+],
+"10.1109/ARES.2008.122": [
+  "contributionarea: live forensics"
+],
+"10.1109/ARES.2008.109": [
+  "ram forensics",
+  "contributionarea: encryption"
+],
+"10.1109/ARES.2008.192": [
+  "contributionarea: forensic text search"
+],
+"10.1109/ARES.2008.140": [
+  "contributionarea: steganography"
+],
+"10.1109/ARES.2008.107": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2009.119": [
+  "challenges",
+  "contributionarea: ram forensics"
+],
+"10.1109/ARES.2009.156": [
+  "contributionarea: forensic text search"
+],
+"10.1109/ARES.2009.94": [
+  "contributionarea: forensic management"
+],
+"10.1109/ARES.2009.120": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2009.108": [
+  "contributionarea: threat modeling"
+],
+"10.1109/ARES.2009.173": [
+  "contributionarea: ram forensics"
+],
+"10.1109/ARES.2010.74": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2010.95": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2010.42": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2010.62": [
+  "contributionarea: forensic management"
+],
+"10.1109/ARES.2010.16": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2010.61": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2010.54": [
+  "contributionarea: steganography"
+],
+"10.1109/ARES.2010.25": [
+  "contributionarea: threat modeling"
+],
+"10.1109/ARES.2010.66": [
+  "contributionarea: steganography"
+],
+"10.1109/ARES.2010.65": [
+  "contributionarea: steganography"
+],
+"10.1109/ARES.2010.75": [
+  "contributionarea: live forensics"
+],
+"10.1109/ARES.2010.120": [
+  "contributionarea: correlation"
+],
+"10.1109/ARES.2010.100": [
+  "contributionarea: file carving"
+],
+"10.1109/ARES.2011.118": [
+  "contributionarea: file carving"
+],
+"10.1109/ARES.2011.119": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2011.120": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2012.17": [
+  "contributionarea: forensic process model"
+],
+"10.1109/ARES.2012.58": [
+  "contributionarea: threat modeling"
+],
+"10.1109/ARES.2012.71": [
+  "contributionarea: forensic computing"
+],
+"10.1109/ARES.2012.46": [
+  "contributionarea: forensic dataset meta"
+],
+"10.1109/ARES.2012.12": [
+  "contributionarea: ram forensics"
+],
+"10.1109/ARES.2012.50": [
+  "contributionarea: database forensics"
+],
+"10.1109/ARES.2013.62": [
+  "contributionarea: file carving"
+],
+"10.1109/ARES.2013.63": [
+  "forensic acquisition",
+  "contributionarea: filesystem forensics"
+],
+"10.1109/ARES.2013.64": [
+  "contributionarea: mobile forensics"
+],
+"10.1109/ARES.2013.65": [
+  "contributionarea: forensic dataset meta"
+],
+"10.1109/ARES.2014.83": [
+  "contributionarea: forensic computing"
+],
+"10.1109/ARES.2014.84": [
+  "contributionarea: forensic computing"
+],
+"10.1109/ARES.2014.85": [
+  "contributionarea: fuzzy file comparison"
+],
+"10.1109/ARES.2015.28": [
+  "contributionarea: ram forensics"
+],
+"10.1109/ARES.2015.49": [
+  "contributionarea: social science"
+],
+"10.1109/ARES.2015.39": [
+  "contributionarea: iot forensics"
+],
+"10.1109/ARES.2015.54": [
+  "contributionarea: cloud forensics"
+],
+"10.1109/ARES.2016.56": [
+  "contributionarea: mobile forensics"
+],
+"10.1109/ARES.2016.17": [
+  "contributionarea: mobile forensics"
+],
+"10.1109/ARES.2016.44": [
+  "contributionarea: windows forensics"
+],
+"10.1109/ARES.2016.58": [
+  "contributionarea: cloud forensics"
+],
+"10.1109/ARES.2016.8": [
+  "contributionarea: cloud forensics"
+],
+"10.1145/3098954.3104051": [
+  "forensic triage",
+  "contributionarea: forensic computing"
+],
+"10.1145/3098954.3104050": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3098954.3104052": [
+  "contributionarea: iot forensics"
+],
+"10.1145/3098954.3104053": [
+  "contributionarea: iot forensics"
+],
+"10.1145/3230833.3232800": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232804": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232802": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232805": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232806": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232801": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232807": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232803": [
+  "contributionarea: not forensics"
+],
+"10.1145/3230833.3232813": [
+  "contributionarea: forensic education"
+],
+"10.1145/3230833.3232808": [
+  "contributionarea: filesystem forensics"
+],
+"10.1145/3230833.3232810": [
+  "contributionarea: ram forensics"
+],
+"10.1145/3230833.3232814": [
+  "contributionarea: iot forensics"
+],
+"10.1145/3230833.3232809": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3230833.3232811": [
+  "contributionarea: e-discovery"
+],
+"10.1145/3230833.3232812": [
+  "osint",
+  "legal",
+  "contributionarea: api forensics"
+],
+"10.1145/3339252.3340508": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3339252.3340526": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3339252.3340107": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3339252.3340524": [
+  "filesystem forensics",
+  "contributionarea: anti-forensics"
+],
+"10.1145/3339252.3340515": [
+  "contributionarea: iot forensics"
+],
+"10.1145/3339252.3340517": [
+  "contributionarea: forensic triage"
+],
+"10.1145/3339252.3340505": [
+  "cloud forensics",
+  "contributionarea: live forensics"
+],
+"10.1145/3339252.3340511": [
+  "malware",
+  "contributionarea: ram forensics"
+],
+"10.1145/3339252.3340504": [
+  "challenges",
+  "contributionarea: iot forensics"
+],
+"10.1145/3339252.3340506": [
+  "contributionarea: not forensics"
+],
+"10.1145/3339252.3340514": [
+  "contributionarea: not forensics"
+],
+"10.1145/3339252.3340500": [
+  "contributionarea: not forensics"
+],
+"10.1145/3339252.3340525": [
+  "contributionarea: not forensics"
+],
+"10.1145/3339252.3340503": [
+  "contributionarea: not forensics"
+],
+"10.1145/3407023.3409194": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3407023.3409203": [
+  "mobile forensics",
+  "contributionarea: chat app"
+],
+"10.1145/3407023.3407056": [
+  "filesystem forensics",
+  "contributionarea: cloud forensics"
+],
+"10.1145/3407023.3409213": [
+  "childrens toys",
+  "contributionarea: iot forensics"
+],
+"10.1145/3407023.3409202": [
+  "database forensics",
+  "contributionarea: forensic dataset meta"
+],
+"10.1145/3407023.3407068": [
+  "contributionarea: AI-assisted forensics"
+],
+"10.1145/3407023.3409200": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3407023.3409199": [
+  "contributionarea: blockchain chain-of-custody"
+],
+"10.1145/3407023.3409188": [
+  "contributionarea: forensic process model"
+],
+"10.1145/3407023.3407048": [
+  "iot forensics",
+  "security",
+  "contributionarea: live forensics"
+],
+"10.1145/3407023.3409195": [
+  "live forensics",
+  "privacy",
+  "contributionarea: surveillance"
+],
+"10.1145/3407023.3409201": [
+  "iot forensics",
+  "security",
+  "contributionarea: live forensics"
+],
+"10.1145/3407023.3407044": [
+  "security",
+  "contributionarea: malware"
+],
+"10.1145/3465481.3470051": [
+  "contributionarea: forensic dataset meta"
+],
+"10.1145/3465481.3470016": [
+  "filesystem forensics",
+  "windows forensics",
+  "contributionarea: timeline analysis"
+],
+"10.1145/3465481.3470053": [
+  "mobile forensics",
+  "contributionarea: forensic process model"
+],
+"10.1145/3465481.3470061": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3465481.3470050": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3465481.3470052": [
+  "contributionarea: forensic readiness"
+],
+"10.1145/3465481.3470059": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3465481.3470060": [
+  "contributionarea: iot forensics"
+],
+"10.1145/3465481.3470017": [
+  "contributionarea: not forensics"
+],
+"10.1145/3465481.3470054": [
+  "contributionarea: not forensics"
+],
+"10.1145/3465481.3470046": [
+  "contributionarea: live forensics"
+],
+"10.1145/3465481.3470049": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3538970": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3544452": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3543805": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3544446": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3538989": [
+  "contributionarea: not forensics"
+],
+"10.1145/3538969.3543808": [
+  "darknet",
+  "contributionarea: windows forensics"
+],
+"10.1145/3538969.3544439": [
+  "contributionarea: windows forensics"
+],
+"10.1145/3538969.3543793": [
+  "contributionarea: forensic computing"
+],
+"10.1145/3600160.3605167": [
+  "contributionarea: not forensics"
+],
+"10.1145/3600160.3605168": [
+  "contributionarea: not forensics"
+],
+"10.1145/3600160.3605041": [
+  "contributionarea: not forensics"
+],
+"10.1145/3600160.3605169": [
+  "contributionarea: not forensics"
+],
+"10.1145/3600160.3600196": [
+  "cloud forensics",
+  "network forensics",
+  "contributionarea: ram forensics"
+],
+"10.1145/3600160.3605017": [
+  "forensic triage",
+  "contributionarea: mobile forensics"
+],
+"10.1145/3600160.3605027": [
+  "contributionarea: timeline analysis"
+],
+"10.1145/3600160.3605029": [
+  "contributionarea: mobile forensics"
+]
 
 }

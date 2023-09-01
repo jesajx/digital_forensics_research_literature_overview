@@ -31,7 +31,7 @@ for doi, tags in tags_from_doi.items():
 done = {
     doi
     for doi, tags in tags_from_doi.items()
-    if ("contributionarea" in tags or "not research" in tags) and doi in dois
+    if ("contributionarea" in tags or "not research" in tags or "not forensics" in tags) and doi in dois
 }
 
 num_tot = len(dois)
@@ -40,7 +40,3 @@ num_left = num_tot - num_done
 done_percentage = num_done / num_tot * 100
 
 print(f"{num_done}/{num_tot} ({done_percentage:.2f}%) num_left={num_left}")
-
-for doi in tags_from_doi:
-    if doi not in done:
-        print(doi)
