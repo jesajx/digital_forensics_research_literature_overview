@@ -7076,12 +7076,6 @@
   "forensic preservation",
   "contributionarea: live forensics"
 ],
-"10.1109/TIFS.2019.2895540": [
-  "contributionarea: forensic computing"
-],
-"10.1109/TIFS.2018.2859760": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2018.2871751": [
   "contributionarea: forensic computing"
 ],
@@ -7122,16 +7116,10 @@
 "10.1109/TIFS.2015.2506548": [
   "contributionarea: forensic computing"
 ],
-"10.1109/TIFS.2015.2424195": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2015.2398362": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2015.2413389": [
-  "contributionarea: forensic computing"
-],
-"10.1109/TIFS.2014.2362848": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2014.2300937": [
@@ -7160,13 +7148,7 @@
   "natural language processing",
   "contributionarea: forensic triage"
 ],
-"10.1109/TIFS.2012.2234117": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2013.2248727": [
-  "contributionarea: forensic computing"
-],
-"10.1109/TIFS.2012.2205568": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2011.2157821": [
@@ -7237,9 +7219,6 @@
 "10.1109/TIFS.2016.2516824": [
   "contributionarea: forensic computing"
 ],
-"10.1109/TIFS.2014.2304838": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2014.2321228": [
   "contributionarea: forensic computing"
 ],
@@ -7271,16 +7250,10 @@
 "10.1109/TIFS.2019.2897912": [
   "contributionarea: forensic computing"
 ],
-"10.1109/TIFS.2018.2871751": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2018.2881677": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2017.2725201": [
-  "contributionarea: forensic computing"
-],
-"10.1109/TIFS.2016.2604208": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2015.2475238": [
@@ -7304,9 +7277,6 @@
 "10.1109/TIFS.2014.2330312": [
   "contributionarea: forensic computing"
 ],
-"10.1109/TIFS.2014.2317949": [
-  "contributionarea: forensic computing"
-],
 "10.1109/TIFS.2012.2234117": [
   "contributionarea: forensic computing"
 ],
@@ -7320,9 +7290,6 @@
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2011.2106121": [
-  "contributionarea: forensic computing"
-],
-"10.1109/TIFS.2010.2051426": [
   "contributionarea: forensic computing"
 ],
 "10.1109/TIFS.2010.2072921": [
@@ -7574,9 +7541,6 @@
   "contributionarea: steganography"
 ],
 "10.1109/TIFS.2019.2956590": [
-  "contributionarea: steganography"
-],
-"10.1109/TIFS.2020.3007354": [
   "contributionarea: steganography"
 ],
 "10.1109/TIFS.2019.2949428": [
@@ -8202,6 +8166,1831 @@
 ],
 "10.1145/3600160.3605029": [
   "contributionarea: mobile forensics"
+],
+
+"10.1109/WIFS55849.2022.9975393": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS55849.2022.9975301": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS55849.2022.9975430": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS53200.2021.9648380": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS53200.2021.9648390": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS53200.2021.9648400": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS49906.2020.9360892": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS49906.2020.9360897": [
+  "contributionarea: steganography"
+],
+"10.1109/TIFS.2020.3005304": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS49906.2020.9360896": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS49906.2020.9360884": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS49906.2020.9360885": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS47025.2019.9035096": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS47025.2019.9035101": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2018.8630779": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2018.8630766": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2016.7823905": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2016.7823900": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2015.7368589": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2015.7368555": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2015.7368596": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2015.7368597": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2014.7084325": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2014.7084302": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2013.6707814": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2012.6412648": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2012.6412654": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2012.6412643": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2012.6412655": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2012.6412644": [
+  "contributionarea: steganography"
+],
+"10.1109/TIFS.2011.2169058": [
+  "contributionarea: steganography"
+],
+"10.1109/TIFS.2011.2175919": [
+  "contributionarea: steganography"
+],
+"10.1109/TIFS.2011.2175918": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2010.5711459": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2010.5711444": [
+  "contributionarea: steganography"
+],
+"10.1109/WIFS.2009.5386467": [
+  "contributionarea: steganography"
+],
+
+"10.1109/TIFS.2023.3269919": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3236456": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3251857": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3265535": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3259881": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975392": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975300": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975409": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648379": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648376": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648386": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3065225": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2972159": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2908071": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2907185": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2879301": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2871748": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630768": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2878541": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2819122": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2779113": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2718482": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2661724": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2636094": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368576": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368562": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2455338": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084301": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2439962": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2431997": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2305799": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2293952": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2355912": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2294240": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084299": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2336376": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2322497": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2333592": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2279794": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707796": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2282121": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707818": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2267960": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2259234": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2224108": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2260158": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412653": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412645": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412646": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2204251": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412652": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2184093": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2188797": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2173678": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2162950": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2159208": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123146": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123147": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2163627": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2145372": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2109383": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2095844": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2010.5711464": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2146250": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2010.5711440": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2038761": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2035975": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2072830": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2068546": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2033229": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386491": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2015039": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2020362": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386465": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386493": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386494": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2020778": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2009603": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.916275": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2002938": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.920728": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2011081": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.926994": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.908226": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.908211": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.916290": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.908233": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2007229": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.926988": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2002939": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2004288": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.885018": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897279": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.879299": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897266": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.885031": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.905146": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.890309": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.879285": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897272": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2005.863505": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897255": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.873652": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902663": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.903849": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2005.863499": [
+  "contributionarea: forensic computing"
+],
+
+
+"10.1109/TIFS.2023.3303722": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3280717": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3217738": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3228494": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3195384": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3179951": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3160595": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3177960": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3183410": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3160612": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3135750": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3140687": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648382": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3109463": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3122072": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3102492": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3073823": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3078273": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3053460": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3015552": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3036801": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3036242": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3005314": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3013186": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3013209": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2947872": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2960585": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2938418": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2919950": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2946938": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2890812": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2885284": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2885252": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630762": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2868173": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2819124": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2846617": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2849883": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2804919": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2680403": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2530043": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2538744": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2567318": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2555792": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2515505": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2446438": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084297": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2393553": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2408431": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2426144": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2398819": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2362299": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2362007": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2359632": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2390414": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2343913": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2343833": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2296373": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2361479": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2359577": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2359548": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084296": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2337258": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2309851": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2322255": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2324277": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2290064": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2213813": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2224866": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2224109": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2217332": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2226580": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2256130": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2214212": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2243146": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2210041": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2206807": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2209876": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2186292": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2186293": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2188389": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2189205": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2170068": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2162585": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123140": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123126": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2156787": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2054083": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2051544": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2054081": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2020772": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.916287": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2012211": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2007242": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.923824": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902405": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902924": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897247": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902023": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902326": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.903543": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3262156": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3218431": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3164187": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3142993": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3142998": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648392": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3103056": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3007327": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360890": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2980792": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2975921": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2965301": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2965298": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2902823": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2885276": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2800901": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630761": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2791434": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2807791": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2806939": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2746062": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2746013": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2561898": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2441000": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2414392": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2395139": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2317309": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2360825": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2286265": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2235833": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2206027": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412618": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2195175": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412658": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.924598": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902017": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.890308": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2005.863510": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.879301": [
+  "contributionarea: forensic computing"
+],
+
+
+"10.1109/WIFS53200.2021.9648397": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360893": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360903": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS47025.2019.9035110": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630765": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630784": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2017.8267641": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2016.7823902": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368556": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084313": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707813": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707811": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707788": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412637": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412639": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123159": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3269152": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3262148": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3249566": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3266702": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975428": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3186803": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3102487": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3045937": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360910": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360901": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360904": [
+  "deepfake",
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3235152": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3216479": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630787": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2725820": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2601060": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2016.7823918": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2016.7823906": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2421314": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084321": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084329": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2293955": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2318433": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707803": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2279797": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412619": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412641": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2177087": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123134": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123127": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123136": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123130": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2077627": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2020.3009583": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360911": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630778": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2859587": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2737961": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2701335": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2697402": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2692683": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2636089": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2017.8267652": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2016.7823910": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2361200": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2302078": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2019.2916364": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630774": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2945198": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2016.7823908": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368573": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2474836": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2010.5711468": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3298518": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3236181": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3239746": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3254449": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3132579": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3124735": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3016819": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2985628": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2985535": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2912577": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2901823": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2870594": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2844819": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2850032": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2738611": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2017.8267657": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2445315": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368563": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2415753": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2352114": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2336379": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2287605": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2291969": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2252342": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2204253": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2218598": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2176118": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2069560": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2025858": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902040": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902030": [
+  "gait analysis",
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3283915": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3222963": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975440": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975433": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975381": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3175603": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3026543": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360900": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2956589": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2960635": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2925452": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS47025.2019.9034986": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS47025.2019.9035106": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2895965": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2900935": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2774505": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368585": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2398812": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2363524": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2178403": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/TIFS.2023.3289448": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS55849.2022.9975413": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3080507": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2980190": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2924195": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2603960": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/WIFS55849.2022.9975404": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3045316": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2994740": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2374424": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386481": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902922": [
+  "contributionarea: forensic computing"
+],
+
+
+
+"10.1109/TIFS.2023.3293951": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3233774": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3234861": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3146766": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3152362": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3146781": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3144878": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2957693": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2935913": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2876837": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2799421": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2656823": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2623589": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2585118": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368587": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2445742": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2455334": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2423261": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2014.7084314": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2381872": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2202227": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2218597": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2195492": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2010.5711472": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2051254": [
+  "contributionarea: forensic computing"
+],
+
+
+
+"10.1109/TIFS.2023.3262130": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3055018": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3035879": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2985544": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.2977597": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2926777": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2939750": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2957701": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS47025.2019.9035103": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2911173": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2886929": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2018.8630777": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2694404": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2636086": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2620280": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2512559": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368580": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368566": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2015.7368579": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2415461": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2284761": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2261061": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2168214": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123137": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123122": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2159972": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2010.5711446": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2099220": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2046268": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386464": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386459": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386461": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.926987": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.873602": [
+  "contributionarea: forensic computing"
+],
+
+
+"10.1109/TIFS.2023.3293415": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS53200.2021.9648389": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3009579": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360907": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2956591": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2941773": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2851584": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2017.8267650": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2622012": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2469254": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707806": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707786": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2278843": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2011.6123128": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386470": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2034452": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.2008216": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.885036": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.897258": [
+  "contributionarea: forensic computing"
+],
+
+
+
+"10.1109/TIFS.2023.3296330": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3293423": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3266138": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2023.3235581": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3202115": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3183398": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3158062": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3158551": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3134869": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3125603": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3102448": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2021.3065495": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3029879": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3026553": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2868230": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2825949": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2801312": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2400392": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2403306": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/WIFS47025.2019.9035107": [
+  "contributionarea: forensic computing"
+],
+
+
+
+"10.1109/TIFS.2021.3083357": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2020.3008986": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2018.2790878": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2011.2162771": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2010.2040670": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2010.2040672": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2009.2028260": [
+  "not research",
+  "erratum"
+],
+
+"10.1109/WIFS.2018.8630795": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2017.2755979": [
+  "not research",
+  "editorial"
+],
+"10.1109/WIFS.2014.7084291": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2014.2381777": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2014.2300292": [
+  "not research",
+  "editorial"
+],
+"10.1109/WIFS.2013.6707779": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2013.2259431": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2012.2217664": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2011.2180833": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2012.2189290": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2011.2160572": [
+  "not research",
+  "editorial"
+],
+"10.1109/WIFS.2009.5386448": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2009.2036059": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2009.2034721": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2008.928950": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2008.2007827": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2009.2014407": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2007.905740": [
+  "not research",
+  "editorial"
+],
+
+"10.1109/TIFS.2014.2363512": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2013.2279945": [
+  "not research",
+  "editorial"
+],
+"10.1109/TIFS.2016.2585398": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2011.2138530": [
+  "not research",
+  "erratum"
+],
+"10.1109/TIFS.2007.910245": [
+  "not research",
+  "erratum"
+],
+
+"10.1109/WIFS55849.2022.9975406": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2911175": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/WIFS.2016.7823917": [
+  "contributionarea: iot forensics"
+],
+
+
+"10.1109/TIFS.2022.3221897": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3214098": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2022.3154240": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3015547": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3023289": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2019.2913234": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2883853": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2869342": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2881671": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2878542": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2018.2833033": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2701332": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2686013": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2016.2606083": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2503263": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2283458": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2313025": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2012.2190575": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2011.2173932": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2024025": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2033225": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2009.2032012": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.916009": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2007.902401": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2008.924606": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.873604": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2006.873603": [
+  "contributionarea: forensic computing"
 ]
+
 
 }
