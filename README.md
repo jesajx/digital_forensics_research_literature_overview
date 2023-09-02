@@ -34,7 +34,6 @@ more TODO:
       (https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings), then check "search within publication" near the search bar at the top of the page. type any text in the search bar. On the next page the filters used will show up near the top, so uncheck the one for your searchbar text. Now the only filter should be: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
     * on ieee, also visit each conference one by one to see the table of contents (https://ieeexplore-ieee-org.ezp.sub.su.se/xpl/conhome/5437532/proceeding?isnumber=5437988&sortType=vol-only-seq&pageNumber=1). WSDF started in 2008 (judging from the archives on ares-conference.eu)
     * acm: visit each conference one by one to scroll down and select the groups of papers in wsdf and IoT-SECFOR, and then export citations. IoT-SECFOR started in 2018.
-* TODO ARES IoT-SECFOR
 * TODO dead conferences
 * TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
 * TODO use citation graphs to find more venues (openalex, crossref, etc.)?
