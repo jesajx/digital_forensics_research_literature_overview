@@ -47,9 +47,10 @@
 ],
 "10.1016/j.diin.2004.03.002": [
   "file classification",
-  "forensic analysis"
+  "forensic analysis",
+  "file type classification"
   ,
-  "contributionarea: file type classification"
+  "contributionarea: file carving"
 ],
 "10.1016/j.diin.2004.04.003": [
   "law"
@@ -1700,7 +1701,8 @@
   "contributionarea: fuzzy file comparison"
 ],
 "10.1016/j.diin.2013.08.004": [
-  "contributionarea: file type classification"
+  "file type classification",
+  "contributionarea: file carving"
 ],
 "10.1016/j.diin.2013.08.005": [
   "cloud storage forensics",
@@ -3255,7 +3257,8 @@
   "forensic analysis",
   "experiment",
   "dataset",
-  "contributionarea: file type classification",
+  "file carving",
+  "contributionarea: file carving",
   "contribution: compare performance of two file classification algorithms based on machine learning (SVM vs neural network)"
 ],
 "10.1016/j.fsidi.2021.301122": [
@@ -6435,7 +6438,8 @@
     "contributionarea: forensic text search"
 ],
 "10.1007/978-3-642-24212-0_5": [
-    "contributionarea: file type classification"
+    "file type classification",
+    "contributionarea: file carving"
 ],
 "10.1007/978-3-642-24212-0_6": [
     "contributionarea: database forensics"
@@ -6746,7 +6750,8 @@
     "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-319-46279-0_17": [
-    "contributionarea: file type classification"
+    "file type classification",
+    "contributionarea: file carving"
 ],
 "10.1007/978-3-319-46279-0_18": [
     "contributionarea: anti-forensics"
@@ -9990,6 +9995,119 @@
 ],
 "10.1109/TIFS.2006.873603": [
   "contributionarea: forensic computing"
+],
+
+
+"10.1109/WIFS.2012.6412611": [
+  "not research",
+  "editorial"
+],
+
+
+"10.1109/WIFS.2018.8630786": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2013.6707808": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2013.2272217": [
+  "contributionarea: forensic computing"
+],
+
+"10.1109/WIFS.2012.6412636": [
+  "contributionarea: threat modeling"
+],
+
+"10.1109/WIFS.2010.5711450": [
+  "live forensics",
+  "contributionarea: network forensics"
+],
+"10.1109/TIFS.2022.3198275": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2020.3047753": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2015.2451073": [
+  "contributionarea: social media forensics"
+],
+"10.1109/TIFS.2016.2622226": [
+  "contributionarea: social media forensics"
+],
+"10.1109/TIFS.2013.2253462": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2014.2334272": [
+  "network forensics",
+  "contributionarea: threat modeling"
+],
+"10.1109/TIFS.2018.2871761": [
+  "not research"
+],
+"10.1109/TIFS.2021.3070444": [
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2017.2656842": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2012.6412634": [
+  "network forensics",
+  "contributionarea: mobile forensics"
+],
+"10.1109/WIFS.2014.7084328": [
+  "threat modeling",
+  "contributionarea: network forensics"
+],
+"10.1109/WIFS.2012.6412627": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS49906.2020.9360902": [
+  "forensic acquisition",
+  "encryption",
+  "contributionarea: mobile forensics"
+],
+"10.1109/WIFS49906.2020.9360889": [
+  "security",
+  "not forensics"
+],
+"10.1109/WIFS.2017.8267665": [
+  "file carving",
+  "contributionarea: forensic computing"
+],
+"10.1109/TIFS.2010.2060484": [
+  "machine learning",
+  "correlation",
+  "filesystem forensics",
+  "contributionarea: file carving"
+],
+"10.1109/TIFS.2020.3004266": [
+  "machine learning",
+  "contributionarea: file carving"
+],
+"10.1109/WIFS47025.2019.9034981": [
+  "file carving",
+  "filesystem forensics",
+  "forensic privacy",
+  "contributionarea: forensic dataset meta"
+],
+"10.1109/TIFS.2018.2823697": [
+  "machine learning",
+  "contributionarea: file carving"
+],
+"10.1109/WIFS49906.2020.9360909": [
+  "contributionarea: forensic computing"
+],
+"10.1109/WIFS.2009.5386487": [
+  "contributionarea: file carving"
+],
+"10.1109/TIFS.2018.2819967": [
+  "threat modeling"
+],
+"10.1109/TIFS.2017.2771238": [
+  "threat modeling"
+],
+"10.1109/TIFS.2014.2363786": [
+  "threat modeling"
 ]
 
 
