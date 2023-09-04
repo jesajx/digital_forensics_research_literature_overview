@@ -15,6 +15,10 @@ an overview of various subareas in the field.
 * TODO include theses, books, standards and tools?
 * TODO tag quality of paper?
 * TODO tag outdatedness of paper?
+* TODO dead conferences
+* TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
+* TODO use citation graphs to find more venues (openalex, crossref, etc.)?
+* TODO use keyword search or not?
 
 ## Sources (for DOIs)
 * Digital Investigation:
@@ -25,19 +29,24 @@ an overview of various subareas in the field.
     * 2023-08-31. scopus (query: SRCTITLE({Information Forensics and Security})). Grep DOIs containing "TIFS".
 * IEEE International Workshop on Information Forensics and Security (WIFS):
     * 2023-08-31. scopus (query: SRCTITLE({Information Forensics and Security})). Grep DOIs containing "WIFS".
+* International Conference on Availability, Reliability and Security (ARES)
+    * Only subtracks/workshops: WSDF and IoT-SECFOR.
+    * 2023-08-31. From ACM library and IEEE Xplore. ARES was published by IEEE until 2016 and since then by ACM. I looked at the "table of contents" of each proceeding to figure out which papers were in what workshop and then copied dois one paper at a time.
+* International Symposium on Digital Forensics and Security (ISDFS)
+    * 2023-09-03. from IEEE Xplore.
+* International Conference on Digital Forensics and Cyber Crime (ICDF2C)
+    * 2023-09-03. from Springer Link.
+* International Journal of Digital Crime and Forensics (IJDCF)
+    * 2023-09-03. from Scopus.
+* International Journal of Electronic Security and Digital Forensics (IJESDF)
+    * 2023-09-03. from Scopus.
 
+## Note on IEEE Xplore
+To download a whole conference from IEEE Xplore, go to that of proceedings (for example [ARES](https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings)) and then check "search within publication" near the search bar at the top of the page. Type any text in the search bar and click search. On the next page, a list of "filters" will show up near the top, so uncheck your search text from that list of filters. Now the only filter should be the conference: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
 
-more TODO:
-* TODO DFRWS (I suspect not everything is published as special issues of Digital Investigation, especially older papers).
-* ARES WSDF and ARES IoT-SECFOR. download dois from IEEE and ACM.
-    * ieee: go to ares on ieee xplore
-      (https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings), then check "search within publication" near the search bar at the top of the page. type any text in the search bar. On the next page the filters used will show up near the top, so uncheck the one for your searchbar text. Now the only filter should be: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
-    * on ieee, also visit each conference one by one to see the table of contents (https://ieeexplore-ieee-org.ezp.sub.su.se/xpl/conhome/5437532/proceeding?isnumber=5437988&sortType=vol-only-seq&pageNumber=1). WSDF started in 2008 (judging from the archives on ares-conference.eu)
-    * acm: visit each conference one by one to scroll down and select the groups of papers in wsdf and IoT-SECFOR, and then export citations. IoT-SECFOR started in 2018.
-* TODO dead conferences
-* TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
-* TODO use citation graphs to find more venues (openalex, crossref, etc.)?
-* TODO use keyword search or not?
+## Note on Springer Link
+Similar trick as with IEEE. Go to a list of proceeding (for example [ICDF2C](https://link-springer-com.ezp.sub.su.se/conference/icdf2c)) and search for any text.
+On the next page, delete the `query` parameter from the url. There is a download-button (a gray box with a down-pointing arrow) in the top right of the page.
 
 ## Process
 1. Download all dois (or links) for a few select (reputable) venues.
@@ -45,7 +54,3 @@ more TODO:
    ambiguous, skim the "conclusion"-section of the paper. If the conclusion is ambigious, skim rest of the paper.
 1. Decide on tags/themes/keywords as we go. Hierarchically classify (i.e. do a
    rough classification first and then classify each subgroup in more detail, fix misclassifications as we go).
-1. ???
-1. profit.
-
-
