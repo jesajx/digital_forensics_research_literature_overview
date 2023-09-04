@@ -5,8 +5,9 @@ all: all_dois.txt
 
 clean:
 
-test: 
+test:
 	./check_completeness.py
+	./check_duplicate_tags.sh
 
 all_dois.txt: $(wildcard dois/*.txt)
 	cat $^ | grep -v '^$$' > "$@"
