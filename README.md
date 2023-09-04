@@ -4,7 +4,6 @@ Systematic Literature Review of academic papers in Digital Forensics to give
 an overview of various subareas in the field.
 
 ## TODO
-
 * clean up old tags
 * generate pretty graphs (and post them in this readme)
 * review "contribution areas" tags for misclassifications.
@@ -21,7 +20,7 @@ an overview of various subareas in the field.
 * TODO use keyword search or not?
 
 ## Sources (for DOIs)
-* Digital Investigation:
+* Digital Investigation (aka "Forensic Science International: Digital Investigation"):
     * TODO date. scopus (query: SRCTITLE({digital investigation})).
 * IFIP wg 11.9
     * 2023-08-31. Manually go through each book: https://link.springer.com/conference/digitalforensics
@@ -37,9 +36,9 @@ an overview of various subareas in the field.
 * International Conference on Digital Forensics and Cyber Crime (ICDF2C)
     * 2023-09-03. from Springer Link.
 * International Journal of Digital Crime and Forensics (IJDCF)
-    * 2023-09-03. from Scopus.
+    * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Digital Crime and Forensics})). TODO doublecheck query string
 * International Journal of Electronic Security and Digital Forensics (IJESDF)
-    * 2023-09-03. from Scopus.
+    * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Electronic Security and Digital Forensics})). TODO doublecheck query string
 
 ## Note on IEEE Xplore
 To download a whole conference from IEEE Xplore, go to that of proceedings (for example [ARES](https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings)) and then check "search within publication" near the search bar at the top of the page. Type any text in the search bar and click search. On the next page, a list of "filters" will show up near the top, so uncheck your search text from that list of filters. Now the only filter should be the conference: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
