@@ -52,5 +52,6 @@ On the next page, delete the `query` parameter from the url. There is a download
 1. Download all dois (or links) for a few select (reputable) venues.
 1. Open one at a time and skim the title and abstract. If the abstract is
    ambiguous, skim the "conclusion"-section of the paper. If the conclusion is ambigious, skim rest of the paper.
+    * for TIFS and WIFS I cheated a little and searched among the paper titles (e.g. for "camera" and "jpeg") and then if the classification seemed obvious for all titles then I mass-labelled the search results.
 1. Decide on tags/themes/keywords as we go. Hierarchically classify (i.e. do a
    rough classification first and then classify each subgroup in more detail, fix misclassifications as we go).
