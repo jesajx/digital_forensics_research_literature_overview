@@ -35,6 +35,7 @@ with open("all_dois.txt") as file:
 with shelve.open("bibs.shelve") as db:
     dois = dois - set(db.keys())
 
+    print("[Downloading]")
     for doi in tqdm(dois):
         # TODO use crossref batch API instead?
         doiurl = f"https://doi.org/{doi}"
@@ -43,6 +44,7 @@ with shelve.open("bibs.shelve") as db:
         )
         db[doi] = response.content.decode("utf-8").replace("%2F", "/")
 
+    print("[Parsing bibtex]")
     res = dict()
     for doi, bib in tqdm(db.items()):
         try:
@@ -53,5 +55,6 @@ with shelve.open("bibs.shelve") as db:
         else:
             res[doi] = bibdata
 
+    print("[Printing JSON]")
     with open("bibs.json", "w") as file:
         json.dump(res, file)
