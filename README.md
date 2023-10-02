@@ -19,6 +19,7 @@ an overview of various subareas in the field.
 * TODO use citation graphs to find more venues (openalex, crossref, etc.)?
 * TODO use keyword search or not?
 * TODO include NIST guides?
+* TODO IEEE Conference on Communications and Network Security 2017 "network forensic workshop"?
 
 ## Sources (for DOIs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
