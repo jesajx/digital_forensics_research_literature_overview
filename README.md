@@ -18,6 +18,7 @@ an overview of various subareas in the field.
 * TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
 * TODO use citation graphs to find more venues (openalex, crossref, etc.)?
 * TODO use keyword search or not?
+* TODO include NIST guides?
 
 ## Sources (for DOIs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):

@@ -2002,7 +2002,9 @@
   "contributionarea: file carving"
 ],
 "10.1016/j.diin.2015.05.002": [
-  "contributionarea: threat modeling"
+  "offensive forensics",
+  "malware",
+  "contributionarea: network forensics"
 ],
 "10.1016/j.diin.2015.05.003": [
   "contributionarea: forensic privacy"
@@ -6052,7 +6054,13 @@
     "contributionarea: forensic preservation"
 ],
 "10.1007/0-387-36891-4_5": [
-    "contributionarea: threat modeling"
+    "forensic process model",
+    "network forensics",
+    "iot forensics",
+    "contributionarea: threat modeling",
+    "theoretical",
+    "contribution: discuss network forensic impact of trust relations networks with autonomous machine-to-machine interactions",
+    "contribution: network forensic process model involving analysis of trust relations within a network"
 ],
 "10.1007/0-387-36891-4_6": [
     "challenges",
@@ -6139,7 +6147,12 @@
     "contributionarea: forensic management"
 ],
 "10.1007/978-0-387-73742-3_4": [
-    "contributionarea: threat modeling"
+    "crime: insider",
+    "theoretical",
+    "network forensics",
+    "contributionarea: threat modeling",
+    "contribution: threat modeling (graph-based) based on network node reachability (with focus on insiders)",
+    "contribution: simulate attackers having and gaining pieces of data (such as password or sensitive information)"
 ],
 "10.1007/978-0-387-73742-3_5": [
     "contributionarea: live forensics"
@@ -6196,10 +6209,19 @@
     "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-73742-3_23": [
-    "contributionarea: threat modeling"
+    "threat modeling: attack tree",
+    "forensic triage",
+    "network forensics",
+    "theoretical",
+    "contributionarea: threat modeling",
+    "contribution: log file forensic triage and interpretation (relevance and attack source attribution) based on attack trees models"
 ],
 "10.1007/978-0-387-73742-3_24": [
-    "contributionarea: threat modeling"
+    "voip",
+    "network forensics",
+    "contributionarea: threat modeling",
+    "theoretical",
+    "contribution: threat modeling (UML-based) to describe an (multi-step) attack and its evidence"
 ],
 
 "10.1007/978-0-387-84927-0_1": [
@@ -6448,7 +6470,10 @@
     "contributionarea: database forensics"
 ],
 "10.1007/978-3-642-24212-0_8": [
-    "contributionarea: threat modeling"
+    "threat modeling: petri net",
+    "network forensics",
+    "contributionarea: threat modeling",
+    "contribution: simulate 'information leakage' in networked system design (focus on 'business process' which roughly corresponds to algorithms)"
 ],
 "10.1007/978-3-642-24212-0_9": [
     "contributionarea: forensic computing"
@@ -6538,7 +6563,11 @@
     "contributionarea: iot forensics"
 ],
 "10.1007/978-3-642-41148-9_16": [
-    "contributionarea: threat modeling"
+    "threat modeling: evidence graph",
+    "threat modeling: logical attack graph",
+    "network forensics",
+    "contributionarea: threat modeling",
+    "contribution: show how to combine network evidence graphs (where each edge represents evidence linking two computers) from different sources"
 ],
 "10.1007/978-3-642-41148-9_17": [
     "contributionarea: forensic process model"
@@ -6657,7 +6686,12 @@
     "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-319-24123-4_8": [
-    "contributionarea: threat modeling"
+    "threat modeling: logical attack graph",
+    "forensic tool: MulVAL",
+    "dataset",
+    "contributionarea: threat modeling",
+    "contribution: extend forensic tool MulVAL with abductive reasoning (guessing attack chain of events when not enough evidence?)",
+    "contribution: automate forensic interpretation using logical attack graphs"
 ],
 "10.1007/978-3-319-24123-4_9": [
     "contributionarea: ram forensics"
@@ -6724,7 +6758,12 @@
     "contributionarea: browser forensics"
 ],
 "10.1007/978-3-319-46279-0_10": [
-    "contributionarea: threat modeling"
+    "threat modeling: logical attack graph",
+    "threat modeling: probabilistic logical attack graph",
+    "threat modeling: evidence graph",
+    "contributionarea: threat modeling",
+    "contribution: map evidence graphs to bayesian network",
+    "contribution: automate forensic interpretation using probabilistic logical attack graphs"
 ],
 "10.1007/978-3-319-46279-0_11": [
     "forensic tool: kumodd",
@@ -6783,7 +6822,9 @@
     "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-67208-3_7": [
-    "contributionarea: cloud forensics"
+    "cloud forensics",
+    "contributionarea: threat modeling",
+    "contribution: case study of applying logical attack graphs to cloud forensic artifacts"
 ],
 "10.1007/978-3-319-67208-3_8": [
     "contributionarea: cryptocurrency forensics"
@@ -6792,7 +6833,12 @@
     "contributionarea: forensic computing"
 ],
 "10.1007/978-3-319-67208-3_10": [
-    "contributionarea: threat modeling"
+    "threat modeling: risk analysis",
+    "threat modeling: risk matrix",
+    "forensic process model",
+    "anti-forensics",
+    "contributionarea: threat modeling",
+    "contribution: assess probability of anti-forensics using threat modeling (risk analysis)"
 ],
 "10.1007/978-3-319-67208-3_11": [
     "contributionarea: malware"
@@ -6853,10 +6899,14 @@
     "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-99277-8_14": [
-    "contributionarea: threat modeling"
+    "contributionarea: api forensics"
 ],
 "10.1007/978-3-319-99277-8_15": [
-    "contributionarea: threat modeling"
+    "threat modeling: logical attack graph",
+    "threat modeling: risk analysis",
+    "cloud forensics",
+    "contributionarea: threat modeling",
+    "contribution: estimate cyber attack impact (and risk) analysis using logical attack graph (relate attack graphs to business process model)"
 ],
 "10.1007/978-3-319-99277-8_16": [
     "contributionarea: anti-forensics"
@@ -6939,7 +6989,8 @@
     "contributionarea: forensic triage"
 ],
 "10.1007/978-3-030-56223-6_9": [
-    "contributionarea: cloud forensics"
+    "cloud forensics",
+    "contributionarea: threat modeling"
 ],
 "10.1007/978-3-030-56223-6_10": [
     "contributionarea: cloud forensics"
@@ -6964,7 +7015,11 @@
 ],
 
 "10.1007/978-3-030-88381-2_1": [
-    "contributionarea: threat modeling"
+    "threat modeling: kill chain",
+    "threat modeling",
+    "forensic process model",
+    "contributionarea: forensic process model",
+    "contribution: forensic process model (using kill chain) describing how forensic investigator attacks a mobile device in order to perform forensic acquisition"
 ],
 "10.1007/978-3-030-88381-2_2": [
     "contributionarea: ics forensics"
@@ -6992,7 +7047,11 @@
     "contributionarea: social media forensics"
 ],
 "10.1007/978-3-030-88381-2_10": [
-    "contributionarea: threat modeling"
+    "network forensics",
+    "osint",
+    "machine learning",
+    "dataset",
+    "contributionarea: network forensics"
 ],
 "10.1007/978-3-030-88381-2_11": [
     "contributionarea: iot forensics"
@@ -10101,13 +10160,22 @@
   "contributionarea: file carving"
 ],
 "10.1109/TIFS.2018.2819967": [
-  "threat modeling"
+  "contributionarea: threat modeling"
 ],
 "10.1109/TIFS.2017.2771238": [
-  "threat modeling"
+  "contributionarea: threat modeling"
 ],
 "10.1109/TIFS.2014.2363786": [
-  "threat modeling"
+  "contributionarea: threat modeling"
+],
+
+"10.1145/1410234.1410238": [
+  "contributionarea: threat modeling"
+],
+
+
+"10.15394/jdfsl.2014.1180": [
+  "contributionarea: threat modeling"
 ]
 
 
