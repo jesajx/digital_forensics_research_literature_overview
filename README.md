@@ -18,6 +18,8 @@ an overview of various subareas in the field.
 * TODO include papers from non-DF-specific journals and conferences? e.g. IEEE Access.
 * TODO use citation graphs to find more venues (openalex, crossref, etc.)?
 * TODO use keyword search or not?
+* TODO include NIST guides?
+* TODO IEEE Conference on Communications and Network Security 2017 "network forensic workshop"?
 * TODO check for DFRWS papers that are not on DI
 
 ## Sources (for DOIs)
