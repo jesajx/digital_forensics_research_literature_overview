@@ -4,6 +4,7 @@ Systematic Literature Review of academic papers in Digital Forensics to give
 an overview of various subareas in the field.
 
 ## TODO
+* maybe use full doi-urls instead of just DOIs? some conferences do not have dois (and we therefore need to use other urls for those), so having both be urls makes things more consistent.
 * clean up old tags
 * generate pretty graphs (and post them in this readme)
 * review "contribution areas" tags for misclassifications.
