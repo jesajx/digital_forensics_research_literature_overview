@@ -23,7 +23,8 @@ an overview of various subareas in the field.
 * TODO IEEE International Workshop on Systematic Approaches to Digital Forensic Engineering (SADFE'07)
 * TODO Conference on Digital Forensics, Security and Law (ADFSL)
 * TODO Journal on Digital Forensics, Security and Law (JDFSL)
-* TODO Wiley's WIREs (multidisciplinary forensics)?  https://wires-onlinelibrary-wiley-com.ezp.sub.su.se/journal/25739468
+* TODO multidisciplinary venues?
+    * forensic science internatinal (not digital investigation) https://www-sciencedirect-com.ezp.sub.su.se/journal/forensic-science-international/vol/346/suppl/C
 * TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 * TODO check for DFRWS papers that are not on DI
 * TODO include korean DF journals?
@@ -51,6 +52,11 @@ an overview of various subareas in the field.
 
 ## Note on IEEE Xplore
 To download a whole conference from IEEE Xplore, go to that of proceedings (for example [ARES](https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings)) and then check "search within publication" near the search bar at the top of the page. Type any text in the search bar and click search. On the next page, a list of "filters" will show up near the top, so uncheck your search text from that list of filters. Now the only filter should be the conference: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
+
+## Note on ADFSL and JDFSL  (erau.edu)
+Just use recursive wget.
+    * JDFSL html pages have a `<meta> tag with `name=bepress_citation_doi` that contains either the DOI or a full DOI url.
+    * ADFSL does not have DOIs, so just the url.
 
 ## Note on Springer Link
 Similar trick as with IEEE. Go to a list of proceeding (for example [ICDF2C](https://link-springer-com.ezp.sub.su.se/conference/icdf2c)) and search for any text.
