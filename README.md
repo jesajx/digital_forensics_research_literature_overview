@@ -1,4 +1,4 @@
-# (Work in progress) An overview of the Digital Forensics research literature
+# (Work in progress) An overview/survey of the Digital Forensics research literature
 
 Systematic Literature Review of academic papers in Digital Forensics to give
 an overview of various subareas in the field.
