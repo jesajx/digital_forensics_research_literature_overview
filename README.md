@@ -25,7 +25,8 @@ an overview of various subareas in the field.
 * TODO Conference on Digital Forensics, Security and Law (ADFSL)
 * TODO Journal on Digital Forensics, Security and Law (JDFSL)
 * TODO multidisciplinary venues?
-    * forensic science internatinal (not digital investigation) https://www-sciencedirect-com.ezp.sub.su.se/journal/forensic-science-international/vol/346/suppl/C
+    * "forensic science international" https://www-sciencedirect-com.ezp.sub.su.se/journal/forensic-science-international/vol/346/suppl/C
+    * "forensic science international: Synergy" https://www-sciencedirect-com.ezp.sub.su.se/journal/forensic-science-international-synergy
 * TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 * TODO check for DFRWS papers that are not on DI
 * TODO include korean DF journals?
@@ -50,7 +51,7 @@ an overview of various subareas in the field.
     * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Digital Crime and Forensics})). TODO doublecheck query string
 * International Journal of Electronic Security and Digital Forensics (IJESDF)
     * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Electronic Security and Digital Forensics})). TODO doublecheck query string
-* Forensic Science International: Reports
+* "Forensic Science International: Reports" (FSIR)
     * 2023-11-14. from sciencedirect.com (go through every issue by hand and filter out articles in the Digital Forensics-section as shown on the website).
         * TODO consider maybe also including articles from the the "General Forensics" and "Negative Result" sections.
 * WIREs
