@@ -20,6 +20,11 @@ an overview of various subareas in the field.
 * TODO use keyword search or not?
 * TODO include NIST guides?
 * TODO IEEE Conference on Communications and Network Security 2017 "network forensic workshop"?
+* TODO IEEE International Workshop on Systematic Approaches to Digital Forensic Engineering (SADFE'07)
+* TODO Conference on Digital Forensics, Security and Law (ADFSL)
+* TODO Journal on Digital Forensics, Security and Law (JDFSL)
+* TODO Wiley's WIREs (multidisciplinary forensics)?  https://wires-onlinelibrary-wiley-com.ezp.sub.su.se/journal/25739468
+* TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 
 ## Sources (for DOIs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
