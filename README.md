@@ -50,6 +50,15 @@ an overview of various subareas in the field.
     * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Digital Crime and Forensics})). TODO doublecheck query string
 * International Journal of Electronic Security and Digital Forensics (IJESDF)
     * 2023-09-03. from Scopus. (query: SRCTITLE({International Journal of Electronic Security and Digital Forensics})). TODO doublecheck query string
+* Forensic Science International: Reports
+    * 2023-11-14. from sciencedirect.com (go through every issue by hand and filter out articles in the Digital Forensics-section as shown on the website).
+        * TODO consider maybe also including articles from the the "General Forensics" and "Negative Result" sections.
+* WIREs
+    * 2023-11-14. from wiley.com (go through every issue by hand and filter out digital forensics related articles, and philosophical/general articles).
+* JDFSL
+    * 2023-11-14. Just wget commons.erau.edu/jdfsl and then do some grep and sed magic.
+* ADFSL
+    * 2023-11-14. Just wget commons.erau.edu/adfsl and then do some grep and sed magic.
 
 ## Note on IEEE Xplore
 To download a whole conference from IEEE Xplore, go to that of proceedings (for example [ARES](https://ieeexplore.ieee.org/xpl/conhome/1001707/all-proceedings)) and then check "search within publication" near the search bar at the top of the page. Type any text in the search bar and click search. On the next page, a list of "filters" will show up near the top, so uncheck your search text from that list of filters. Now the only filter should be the conference: `"Parent Publication Number":1001707`. Near the top of the page is a big blue "export"-button.
