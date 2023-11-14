@@ -30,7 +30,7 @@ an overview of various subareas in the field.
 * TODO check for DFRWS papers that are not on DI
 * TODO include korean DF journals?
 
-## Sources (for DOIs)
+## Sources (for DOIs/URLs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
     * TODO date. scopus (query: SRCTITLE({digital investigation})).
 * IFIP wg 11.9
