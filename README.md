@@ -26,6 +26,7 @@ an overview of various subareas in the field.
 * TODO Wiley's WIREs (multidisciplinary forensics)?  https://wires-onlinelibrary-wiley-com.ezp.sub.su.se/journal/25739468
 * TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 * TODO check for DFRWS papers that are not on DI
+* TODO include korean DF journals?
 
 ## Sources (for DOIs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
