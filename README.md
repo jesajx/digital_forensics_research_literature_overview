@@ -30,6 +30,7 @@ an overview of various subareas in the field.
 * TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 * TODO check for DFRWS papers that are not on DI
 * TODO include korean DF journals?
+* TODo International Association of Forensic Sciences (IAFS)?
 
 ## Sources (for DOIs/URLs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
