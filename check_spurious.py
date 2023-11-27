@@ -12,6 +12,7 @@ with open("all_dois.txt") as file:
 
 spurious = set(tags_from_doi.keys())-dois
 
+print(f'num_spurious={len(spurious)}')
 if len(spurious) != 0:
     print("--- BEGIN spurious papers ---")
     for x in spurious:

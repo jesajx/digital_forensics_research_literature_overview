@@ -10485,6 +10485,83 @@
   "videochat app: cisco webex",
   "api forensics",
   "contributionarea: chat app"
+],
+
+
+
+"10.1504/IJESDF.2014.065740": [
+  "not forensics"
+],
+
+"10.1109/ISDFS.2018.8355371": [
+  "email",
+  "email forensics",
+  "contributionarea: forensic process model"
+],
+
+"10.58940/1558-7223.1403": [
+  "not research"
+],
+
+
+"10.1109/ISDFS58141.2023.10131731": [
+  "security",
+  "intrusion detection",
+  "contributionarea: live forensics"
+],
+"10.1109/ISDFS.2018.8355360": [
+  "live forensics",
+  "security",
+  "contributionarea: malware"
+],
+
+"10.1007/978-3-030-68734-2_15": [
+  "contributionarea: malware"
+],
+"10.4018/IJDCF.2018070107": [
+  "not forensics"
+],
+"10.4018/jdcf.2013070102": [
+  "watermarking",
+  "contributionarea: forensic computing"
+],
+
+"10.1109/ISDFS49300.2020.9116412": [
+  "visualization",
+  "contributionarea: database forensics"
+],
+
+"10.58940/1558-7223.1432A": [
+  "not research"
+],
+
+"10.15394/jdfsl.2006.1005": [
+  "contributionarea: forensic education"
+],
+
+"10.4018/jdcf.2012010103": [
+  "contributionarea: steganography"
+],
+"10.1504/ijesdf.2021.113388": [
+  "not forensics"
+],
+"10.1109/ISDFS.2018.8355325": [
+  "contributionarea: forensic computing"
+],
+"https://commons.erau.edu/adfsl/2007/session-5/2": [
+  "contributionarea: surveillance"
+],
+
+"10.1016/j.fsir.2020.100117": [
+  "forensic readiness",
+  "iot forensics",
+  "contributionarea: forensic process model"
+],
+
+"10.4018/IJDCF.2016100101": [
+  "forensic readiness",
+  "iot forensics",
+  "contributionarea: forensic process model"
 ]
 
 }
