@@ -34,7 +34,7 @@ an overview of various subareas in the field.
 
 ## Sources (for DOIs/URLs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
-    * TODO date. scopus (query: SRCTITLE({digital investigation})).
+    * 2023-11-27. scopus (query: SRCTITLE({digital investigation})).
 * IFIP wg 11.9
     * 2023-08-31. Manually go through each book: https://link.springer.com/conference/digitalforensics
 * IEEE Transactions on Information Forensics and Security (TIFS)
