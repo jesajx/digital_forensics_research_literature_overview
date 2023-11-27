@@ -1602,7 +1602,7 @@
   "contributionarea: forensic triage"
 ],
 "10.1016/j.diin.2013.02.003": [
-  "cloud storage forensics",
+  "cloud file storage forensics",
   "contributionarea: api forensics"
 ],
 "10.1016/j.diin.2013.02.004": [
@@ -1642,7 +1642,7 @@
   "contributionarea: forensic management"
 ],
 "10.1016/j.diin.2013.04.006": [
-  "cloud storage forensics",
+  "cloud file storage forensics",
   "contributionarea: api forensics"
 ],
 "10.1016/j.diin.2013.06.001": [
@@ -1658,7 +1658,7 @@
   "contributionarea: ram forensics"
 ],
 "10.1016/j.diin.2013.06.005": [
-  "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1016/j.diin.2013.06.006": [
   "contributionarea: fuzzy file comparison"
@@ -1705,7 +1705,7 @@
   "contributionarea: file carving"
 ],
 "10.1016/j.diin.2013.08.005": [
-  "cloud storage forensics",
+  "cloud file storage forensics",
   "contributionarea: api forensics"
 ],
 "10.1016/j.diin.2013.08.006": [
@@ -1882,7 +1882,7 @@
   "contributionarea: iot forensics"
 ],
 "10.1016/j.diin.2014.06.007": [
-  "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1016/j.diin.2014.06.008": [
   "iot forensics",
@@ -2319,7 +2319,7 @@
   "contributionarea: forensic dataset meta"
 ],
 "10.1016/j.diin.2017.06.005": [
-  "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1016/j.diin.2017.06.006": [
   "contributionarea: live forensics"
@@ -2340,7 +2340,7 @@
   "contributionarea: ram forensics"
 ],
 "10.1016/j.diin.2017.06.012": [
-  "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1016/j.diin.2017.06.013": [
   "contributionarea: iot forensics"
@@ -2445,7 +2445,7 @@
 ],
 "10.1016/j.diin.2018.01.009": [
   "forensic process model",
-  "cloud storage forensics",
+  "cloud file storage forensics",
   "contributionarea: api forensics"
 ],
 "10.1016/j.diin.2018.01.010": [
@@ -3799,7 +3799,7 @@
   "forensic preservation",
   "forensic process model",
   "forensic process model: Kyros",
-  "contributionarea: ics forensics",
+  "contributionarea: industrial control system forensics",
   "contribution: jtag-based ram forensic process model for industrial control systems",
   "contribution: dicuss jtag-based ram forensic methodology"
 ],
@@ -3812,7 +3812,7 @@
   "forensic tool: INSIDE",
   "contributionarea: forensic computing",
   "contribution: forensic image classification tool 'INSIDE'",
-  "ballistics forensics"
+  "ballistindustrial control system forensics"
 ],
 "10.1016/j.fsidi.2021.301198": [
   "intrusion detection",
@@ -3821,7 +3821,7 @@
   "dataset",
   "experiment",
   "forensic tool",
-  "contributionarea: ics forensics",
+  "contributionarea: industrial control system forensics",
   "contribution: improved sensor/actuator data anomaly-based intrusion detection"
 ],
 "10.1016/j.fsidi.2021.301213": [
@@ -3964,7 +3964,7 @@
   "contribution: discuss challenges with creating forensic datasets"
 ],
 "10.1016/j.fsidi.2021.301265": [
-  "ballistics forensics",
+  "ballistindustrial control system forensics",
   "machine learning",
   "forensic computing",
   "image classification",
@@ -3991,7 +3991,7 @@
   "contribution: improved file carving method based on fuzzy timestamp patterns (fuzzier than original method)"
 ],
 "10.1016/j.fsidi.2021.301267": [
-  "ballistics forensics",
+  "ballistindustrial control system forensics",
   "forensic computing",
   "photogrammetry",
   "forensic tool",
@@ -4246,7 +4246,7 @@
   "experiment",
   "forensic analysis",
   "embedded forensics",
-  "contributionarea: ics forensics",
+  "contributionarea: industrial control system forensics",
   "contribution: industrial control system agent-based ram forensic tool 'PEM'",
   "contribution: document ram artifacts in specific PLC 'Schneider Electric Modicon M221 PLC'",
   "iot device: Schneider Electric Modicon M221 PLC"
@@ -4442,7 +4442,7 @@
   "live forensics",
   "experiment",
   "windows",
-  "contributionarea: ics forensics",
+  "contributionarea: industrial control system forensics",
   "contribution: live monitoring and version control of industrial control system software to allow restoration after cyberattack"
 ],
 "10.1016/j.fsidi.2022.301355": [
@@ -5255,1851 +5255,1851 @@
 
 
 "10.1016/j.diin.2003.12.002": [
-    "contributionarea: forensic tools evaluation"
+  "contributionarea: forensic tools evaluation"
 ],
 "10.1016/j.diin.2004.01.001": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2004.01.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2004.01.005": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2004.04.001": [
-    "contributionarea: forensic tools evaluation"
+  "contributionarea: forensic tools evaluation"
 ],
 "10.1016/j.diin.2004.04.002": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2004.04.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2004.04.008": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2004.11.001": [
-    "legal",
-    "forensic management",
-    "not research",
-    "newspaper-like article"
+  "legal",
+  "forensic management",
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2004.11.005": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2005.01.003": [
-    "contributionarea: steganography"
+  "contributionarea: steganography"
 ],
 "10.1016/j.diin.2005.01.005": [
-    "not research",
-    "newspaper-like article",
-    "challanges"
+  "not research",
+  "newspaper-like article",
+  "challanges"
 ],
 "10.1016/j.diin.2005.01.008": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.01.009": [
-    "not research",
-    "letter to the editor"
+  "not research",
+  "letter to the editor"
 ],
 "10.1016/j.diin.2005.01.010": [
-    "newspaper-like article",
-    "contributionarea: forensic process model"
+  "newspaper-like article",
+  "contributionarea: forensic process model"
 ],
 "10.1016/j.diin.2005.01.011": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.04.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.04.007": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.07.006": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.08.002": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2005.11.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2005.11.002": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2005.11.003": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.01.004": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.01.005": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.01.007": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.01.008": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.01.010": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.01.011": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2006.02.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.05.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.05.006": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.06.017": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.08.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.08.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.08.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.08.007": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.10.006": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2006.10.012": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2007.01.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2007.05.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2007.08.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2008.01.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2008.06.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2008.08.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2008.08.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2009.01.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2009.06.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2009.08.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2010.01.004": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1016/j.diin.2010.02.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2010.05.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2010.10.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.02.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.05.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.05.017": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.06.002": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1016/j.diin.2011.07.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.09.003": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2011.09.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2011.10.001": [
-    "not research",
-    "newspaper-like article"
+  "not research",
+  "newspaper-like article"
 ],
 "10.1016/j.diin.2012.02.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2012.05.016": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2012.05.017": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2012.07.001": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1016/j.diin.2012.11.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.02.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.04.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.04.007": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.diin.2013.06.015": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.08.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.09.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2013.10.003": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1016/j.diin.2013.11.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.03.015": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.06.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.06.005": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.07.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.09.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2014.09.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.01.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.02.001": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1016/j.diin.2015.03.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.05.017": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.07.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.09.003": [
-    "not research",
-    "letter to the editor"
+  "not research",
+  "letter to the editor"
 ],
 "10.1016/j.diin.2015.09.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.10.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2015.10.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.03.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.05.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.06.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.06.003": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.diin.2016.08.002": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.diin.2016.08.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.08.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2016.11.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.02.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.02.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.05.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.06.015": [
-    "challenges",
-    "contributionarea: iot forensics"
+  "challenges",
+  "contributionarea: iot forensics"
 ],
 "10.1016/j.diin.2017.07.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.09.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2017.11.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.02.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.03.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.04.004": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.04.005": [
-    "api forensics",
-    "contributionarea: mobile forensics"
+  "api forensics",
+  "contributionarea: mobile forensics"
 ],
 "10.1016/j.diin.2018.05.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.06.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.09.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.10.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2018.11.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2019.02.001": [
-    "literature review",
-    "contributionarea: social media forensics"
+  "literature review",
+  "contributionarea: social media forensics"
 ],
 "10.1016/j.diin.2019.02.005": [
-    "contributionarea: timeline analysis"
+  "contributionarea: timeline analysis"
 ],
 "10.1016/j.diin.2019.03.001": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2019.03.002": [
-    "side-channel attacks",
-    "contributionarea: iot forensics"
+  "side-channel attacks",
+  "contributionarea: iot forensics"
 ],
 "10.1016/j.diin.2019.03.006": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.diin.2019.03.008": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2019.04.001": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1016/j.diin.2019.05.002": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2019.05.003": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.diin.2019.100886": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2019.200892": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1016/j.fsidi.2019.200898": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2019.200901": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.fsidi.2020.200908": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1016/j.fsidi.2020.300944": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.300961": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.300970": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.300971": [
-    "contributionarea: social science"
+  "contributionarea: social science"
 ],
 "10.1016/j.fsidi.2020.300983": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1016/j.fsidi.2020.301000": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.301021": [
-    "contributionarea: forensics-as-a-service"
+  "contributionarea: forensics-as-a-service"
 ],
 "10.1016/j.fsidi.2020.301028": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.301063": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2020.301075": [
-    "contributionarea: encryption"
+  "contributionarea: encryption"
 ],
 "10.1016/j.fsidi.2020.301095": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301148": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301179": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301180": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301206": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301210": [
-    "iot forensics",
-    "challenges",
-    "literature review",
-    "contributionarea: iot forensics"
+  "iot forensics",
+  "challenges",
+  "literature review",
+  "contributionarea: iot forensics"
 ],
 "10.1016/j.fsidi.2021.301262": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301269": [
-    "fuchsia",
-    "contributionarea: mobile forensics"
+  "fuchsia",
+  "contributionarea: mobile forensics"
 ],
 "10.1016/j.fsidi.2021.301282": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2021.301285": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1016/j.fsidi.2021.301304": [
-    "mobile forensics",
-    "contributionarea: anti-forensics"
+  "mobile forensics",
+  "contributionarea: anti-forensics"
 ],
 "10.1016/j.fsidi.2021.301318": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301332": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301348": [
-    "forensic readiness",
-    "social science",
-    "contributionarea: forensic process model"
+  "forensic readiness",
+  "social science",
+  "contributionarea: forensic process model"
 ],
 "10.1016/j.fsidi.2022.301356": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301388": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301394": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301430": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301462": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2022.301470": [
-    "iot forensics",
-    "challenges",
-    "literature review",
-    "contributionarea: iot forensics"
+  "iot forensics",
+  "challenges",
+  "literature review",
+  "contributionarea: iot forensics"
 ],
 "10.1016/j.fsidi.2022.301480": [
-    "security",
-    "literature review",
-    "contributionarea: forensic process model"
+  "security",
+  "literature review",
+  "contributionarea: forensic process model"
 ],
 "10.1016/j.fsidi.2022.301487": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2023.301515": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1016/j.fsidi.2023.301525": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 "10.1016/j.fsidi.2023.301542": [
-    "not research"
+  "not research"
 ],
 "10.1016/j.fsidi.2023.301543": [
-    "not research",
-    "editorial"
+  "not research",
+  "editorial"
 ],
 
 
 
 "10.1007/978-3-642-33962-2_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-33962-2_2": [
-    "contributionarea: fuzzy file comparison"
+  "contributionarea: fuzzy file comparison"
 ],
 "10.1007/978-3-642-33962-2_3": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-33962-2_4": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-642-33962-2_5": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-642-33962-2_6": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-642-33962-2_7": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-33962-2_8": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-642-33962-2_9": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-642-33962-2_10": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-642-33962-2_11": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-642-33962-2_12": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-33962-2_13": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-33962-2_14": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-33962-2_15": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-33962-2_16": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-33962-2_17": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-33962-2_18": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-33962-2_19": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-642-33962-2_20": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-642-33962-2_21": [
-    "contributionarea: correlation"
+  "contributionarea: correlation"
 ],
 "10.1007/978-3-642-33962-2_22": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 
 "10.1007/0-387-31163-7_1": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/0-387-31163-7_2": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/0-387-31163-7_3": [
-    "contributionarea: forensics-as-a-service"
+  "contributionarea: forensics-as-a-service"
 ],
 "10.1007/0-387-31163-7_4": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/0-387-31163-7_5": [
-    "legal",
-    "email",
-    "anti-forensics",
-    "contributionarea: anti-forensics"
+  "legal",
+  "email",
+  "anti-forensics",
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-31163-7_6": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-31163-7_7": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/0-387-31163-7_8": [
-    "real world forensic case",
-    "bayesian networks",
-    "contributionarea: threat modeling"
+  "real world forensic case",
+  "bayesian networks",
+  "contributionarea: threat modeling"
 ],
 "10.1007/0-387-31163-7_9": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/0-387-31163-7_10": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/0-387-31163-7_11": [
-    "contributionarea: forensic readiness"
+  "contributionarea: forensic readiness"
 ],
 "10.1007/0-387-31163-7_12": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-31163-7_13": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-31163-7_14": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/0-387-31163-7_15": [
-    "contributionarea: surveillance"
+  "contributionarea: surveillance"
 ],
 "10.1007/0-387-31163-7_16": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/0-387-31163-7_17": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/0-387-31163-7_18": [
-    "contributionarea: computer forensics"
+  "contributionarea: computer forensics"
 ],
 "10.1007/0-387-31163-7_19": [
-    "contributionarea: filesystem forensics"
+  "contributionarea: filesystem forensics"
 ],
 "10.1007/0-387-31163-7_20": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-31163-7_21": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-31163-7_22": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/0-387-31163-7_23": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/0-387-31163-7_24": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/0-387-31163-7_25": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 
 "10.1007/0-387-36891-4_1": [
-    "contributionarea: challenges"
+  "contributionarea: challenges"
 ],
 "10.1007/0-387-36891-4_2": [
-    "contributionarea: forensic file format"
+  "contributionarea: forensic file format"
 ],
 "10.1007/0-387-36891-4_3": [
-    "contributionarea: forensic file format"
+  "contributionarea: forensic file format"
 ],
 "10.1007/0-387-36891-4_4": [
-    "contributionarea: forensic preservation"
+  "contributionarea: forensic preservation"
 ],
 "10.1007/0-387-36891-4_5": [
-    "forensic process model",
-    "network forensics",
-    "iot forensics",
-    "contributionarea: threat modeling",
-    "theoretical",
-    "contribution: discuss network forensic impact of trust relations networks with autonomous machine-to-machine interactions",
-    "contribution: network forensic process model involving analysis of trust relations within a network"
+  "forensic process model",
+  "network forensics",
+  "iot forensics",
+  "contributionarea: threat modeling",
+  "theoretical",
+  "contribution: discuss network forensic impact of trust relations networks with autonomous machine-to-machine interactions",
+  "contribution: network forensic process model involving analysis of trust relations within a network"
 ],
 "10.1007/0-387-36891-4_6": [
-    "challenges",
-    "contributionarea: forensic triage"
+  "challenges",
+  "contributionarea: forensic triage"
 ],
 "10.1007/0-387-36891-4_7": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-36891-4_8": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-36891-4_9": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/0-387-36891-4_10": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/0-387-36891-4_11": [
-    "authorship attribution: keyboard typing",
-    "contributionarea: forensic computing"
+  "authorship attribution: keyboard typing",
+  "contributionarea: forensic computing"
 ],
 "10.1007/0-387-36891-4_12": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/0-387-36891-4_13": [
-    "contributionarea: macos forensics"
+  "contributionarea: macos forensics"
 ],
 "10.1007/0-387-36891-4_14": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-36891-4_15": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-36891-4_16": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-36891-4_17": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/0-387-36891-4_18": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/0-387-36891-4_19": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/0-387-36891-4_20": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/0-387-36891-4_21": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/0-387-36891-4_22": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/0-387-36891-4_23": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/0-387-36891-4_24": [
-    "contributionarea: computer forensics"
+  "contributionarea: computer forensics"
 ],
 "10.1007/0-387-36891-4_25": [
-    "contributionarea: forensic education"
+  "contributionarea: forensic education"
 ],
 "10.1007/0-387-36891-4_26": [
-    "contributionarea: forensic education"
+  "contributionarea: forensic education"
 ],
 "10.1007/0-387-36891-4_27": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/0-387-36891-4_28": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/0-387-36891-4_29": [
-    "not research",
-    "erratum"
+  "not research",
+  "erratum"
 ],
 
 "10.1007/978-0-387-73742-3_1": [
-    "contributionarea: forensic tool testing"
+  "contributionarea: forensic tool testing"
 ],
 "10.1007/978-0-387-73742-3_2": [
-    "contributionarea: surveillance"
+  "contributionarea: surveillance"
 ],
 "10.1007/978-0-387-73742-3_3": [
-    "contributionarea: forensic management"
+  "contributionarea: forensic management"
 ],
 "10.1007/978-0-387-73742-3_4": [
-    "crime: insider",
-    "theoretical",
-    "network forensics",
-    "contributionarea: threat modeling",
-    "contribution: threat modeling (graph-based) based on network node reachability (with focus on insiders)",
-    "contribution: simulate attackers having and gaining pieces of data (such as password or sensitive information)"
+  "crime: insider",
+  "theoretical",
+  "network forensics",
+  "contributionarea: threat modeling",
+  "contribution: threat modeling (graph-based) based on network node reachability (with focus on insiders)",
+  "contribution: simulate attackers having and gaining pieces of data (such as password or sensitive information)"
 ],
 "10.1007/978-0-387-73742-3_5": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-0-387-73742-3_6": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-0-387-73742-3_7": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-0-387-73742-3_8": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-73742-3_9": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-73742-3_10": [
-    "contributionarea: computer forensics"
+  "contributionarea: computer forensics"
 ],
 "10.1007/978-0-387-73742-3_11": [
-    "contributionarea: computer forensics"
+  "contributionarea: computer forensics"
 ],
 "10.1007/978-0-387-73742-3_12": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-0-387-73742-3_13": [
-    "contributionarea: steganography"
+  "contributionarea: steganography"
 ],
 "10.1007/978-0-387-73742-3_14": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-0-387-73742-3_15": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-0-387-73742-3_16": [
-    "contributionarea: filesystem forensics"
+  "contributionarea: filesystem forensics"
 ],
 "10.1007/978-0-387-73742-3_17": [
-    "contributionarea: api forensics"
+  "contributionarea: api forensics"
 ],
 "10.1007/978-0-387-73742-3_18": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-0-387-73742-3_19": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-0-387-73742-3_20": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-73742-3_21": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-73742-3_22": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-73742-3_23": [
-    "threat modeling: attack tree",
-    "forensic triage",
-    "network forensics",
-    "theoretical",
-    "contributionarea: threat modeling",
-    "contribution: log file forensic triage and interpretation (relevance and attack source attribution) based on attack trees models"
+  "threat modeling: attack tree",
+  "forensic triage",
+  "network forensics",
+  "theoretical",
+  "contributionarea: threat modeling",
+  "contribution: log file forensic triage and interpretation (relevance and attack source attribution) based on attack trees models"
 ],
 "10.1007/978-0-387-73742-3_24": [
-    "voip",
-    "network forensics",
-    "contributionarea: threat modeling",
-    "theoretical",
-    "contribution: threat modeling (UML-based) to describe an (multi-step) attack and its evidence"
+  "voip",
+  "network forensics",
+  "contributionarea: threat modeling",
+  "theoretical",
+  "contribution: threat modeling (UML-based) to describe an (multi-step) attack and its evidence"
 ],
 
 "10.1007/978-0-387-84927-0_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-84927-0_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-84927-0_3": [
-    "contributionarea: corrupted data recovery"
+  "contributionarea: corrupted data recovery"
 ],
 "10.1007/978-0-387-84927-0_4": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-0-387-84927-0_5": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-0-387-84927-0_6": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-0-387-84927-0_7": [
-    "contributionarea: timeline analysis"
+  "contributionarea: timeline analysis"
 ],
 "10.1007/978-0-387-84927-0_8": [
-    "contributionarea: forensic preservation"
+  "contributionarea: forensic preservation"
 ],
 "10.1007/978-0-387-84927-0_9": [
-    "contributionarea: fuzzy file comparison"
+  "contributionarea: fuzzy file comparison"
 ],
 "10.1007/978-0-387-84927-0_10": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-0-387-84927-0_11": [
-    "contributionarea: chat app"
+  "contributionarea: chat app"
 ],
 "10.1007/978-0-387-84927-0_12": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-0-387-84927-0_13": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-0-387-84927-0_14": [
-    "contributionarea: forensic readiness"
+  "contributionarea: forensic readiness"
 ],
 "10.1007/978-0-387-84927-0_15": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-0-387-84927-0_16": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-84927-0_17": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-84927-0_18": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-0-387-84927-0_19": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-0-387-84927-0_20": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-0-387-84927-0_21": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-0-387-84927-0_22": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-0-387-84927-0_23": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-0-387-84927-0_24": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-0-387-84927-0_25": [
-    "online forensics",
-    "contributionarea: computer forensics"
+  "online forensics",
+  "contributionarea: computer forensics"
 ],
 "10.1007/978-0-387-84927-0_26": [
-    "contributionarea: forensic tools evaluation"
+  "contributionarea: forensic tools evaluation"
 ],
 "10.1007/978-0-387-84927-0_27": [
-    "contributionarea: steganography"
+  "contributionarea: steganography"
 ],
 "10.1007/978-0-387-84927-0_28": [
-    "contributionarea: forensics-as-a-service"
+  "contributionarea: forensics-as-a-service"
 ],
 
 "10.1007/978-3-642-04155-6_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-04155-6_2": [
-    "contributionarea: challenges"
+  "contributionarea: challenges"
 ],
 "10.1007/978-3-642-04155-6_3": [
-    "social science",
-    "contributionarea: forensic process model"
+  "social science",
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-04155-6_4": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-642-04155-6_5": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-04155-6_6": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-642-04155-6_7": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-642-04155-6_8": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-642-04155-6_9": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-642-04155-6_10": [
-    "security",
-    "contributionarea: live forensics"
+  "security",
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-04155-6_11": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-642-04155-6_12": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-04155-6_13": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-04155-6_14": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-642-04155-6_15": [
-    "contributionarea: forensics-as-a-service"
+  "contributionarea: forensics-as-a-service"
 ],
 "10.1007/978-3-642-04155-6_16": [
-    "contributionarea: encryption"
+  "contributionarea: encryption"
 ],
 "10.1007/978-3-642-04155-6_17": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-04155-6_18": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-642-04155-6_19": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/978-3-642-04155-6_20": [
-    "contributionarea: forensic management"
+  "contributionarea: forensic management"
 ],
 "10.1007/978-3-642-04155-6_21": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-04155-6_22": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-04155-6_23": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 
 "10.1007/978-3-642-15506-2_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-15506-2_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-15506-2_3": [
-    "contributionarea: api forensics"
+  "contributionarea: api forensics"
 ],
 "10.1007/978-3-642-15506-2_4": [
-    "privacy",
-    "contributionarea: surveillance"
+  "privacy",
+  "contributionarea: surveillance"
 ],
 "10.1007/978-3-642-15506-2_5": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-642-15506-2_6": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-642-15506-2_7": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-642-15506-2_8": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-15506-2_9": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-642-15506-2_10": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-642-15506-2_11": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-15506-2_12": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1007/978-3-642-15506-2_13": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1007/978-3-642-15506-2_14": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1007/978-3-642-15506-2_15": [
-    "contributionarea: fuzzy file comparison"
+  "contributionarea: fuzzy file comparison"
 ],
 "10.1007/978-3-642-15506-2_16": [
-    "contributionarea: forensic file format"
+  "contributionarea: forensic file format"
 ],
 "10.1007/978-3-642-15506-2_17": [
-    "contributionarea: encryption"
+  "contributionarea: encryption"
 ],
 "10.1007/978-3-642-15506-2_18": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-15506-2_19": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-15506-2_20": [
-    "contributionarea: chat app"
+  "contributionarea: chat app"
 ],
 "10.1007/978-3-642-15506-2_21": [
-    "contributionarea: forensic tool testing"
+  "contributionarea: forensic tool testing"
 ],
 
 "10.1007/978-3-642-24212-0_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-24212-0_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-24212-0_3": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-24212-0_4": [
-    "contributionarea: forensic text search"
+  "contributionarea: forensic text search"
 ],
 "10.1007/978-3-642-24212-0_5": [
-    "file type classification",
-    "contributionarea: file carving"
+  "file type classification",
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-642-24212-0_6": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-642-24212-0_7": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-642-24212-0_8": [
-    "threat modeling: petri net",
-    "network forensics",
-    "contributionarea: threat modeling",
-    "contribution: simulate 'information leakage' in networked system design (focus on 'business process' which roughly corresponds to algorithms)"
+  "threat modeling: petri net",
+  "network forensics",
+  "contributionarea: threat modeling",
+  "contribution: simulate 'information leakage' in networked system design (focus on 'business process' which roughly corresponds to algorithms)"
 ],
 "10.1007/978-3-642-24212-0_9": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-642-24212-0_10": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-642-24212-0_11": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-642-24212-0_12": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-642-24212-0_13": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-642-24212-0_14": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-642-24212-0_15": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-24212-0_16": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/978-3-642-24212-0_17": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/978-3-642-24212-0_18": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-24212-0_19": [
-    "contributionarea: steganography"
+  "contributionarea: steganography"
 ],
 "10.1007/978-3-642-24212-0_20": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-642-24212-0_21": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 
 "10.1007/978-3-642-41148-9_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-41148-9_2": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-642-41148-9_3": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-41148-9_4": [
-    "contributionarea: forensic readiness"
+  "contributionarea: forensic readiness"
 ],
 "10.1007/978-3-642-41148-9_5": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-41148-9_6": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-642-41148-9_7": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-642-41148-9_8": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-642-41148-9_9": [
-    "forensic triage",
-    "contributionarea: timeline analysis"
+  "forensic triage",
+  "contributionarea: timeline analysis"
 ],
 "10.1007/978-3-642-41148-9_10": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-41148-9_11": [
-    "real world forensic case",
-    "forensic management",
-    "contributionarea: forensic process model"
+  "real world forensic case",
+  "forensic management",
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-41148-9_12": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-642-41148-9_13": [
-    "contributionarea: filesystem forensics"
+  "contributionarea: filesystem forensics"
 ],
 "10.1007/978-3-642-41148-9_14": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-642-41148-9_15": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-642-41148-9_16": [
-    "threat modeling: evidence graph",
-    "threat modeling: logical attack graph",
-    "network forensics",
-    "contributionarea: threat modeling",
-    "contribution: show how to combine network evidence graphs (where each edge represents evidence linking two computers) from different sources"
+  "threat modeling: evidence graph",
+  "threat modeling: logical attack graph",
+  "network forensics",
+  "contributionarea: threat modeling",
+  "contribution: show how to combine network evidence graphs (where each edge represents evidence linking two computers) from different sources"
 ],
 "10.1007/978-3-642-41148-9_17": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-642-41148-9_18": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-642-41148-9_19": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-41148-9_20": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-642-41148-9_21": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-642-41148-9_22": [
-    "contributionarea: forensic tools evaluation"
+  "contributionarea: forensic tools evaluation"
 ],
 "10.1007/978-3-642-41148-9_23": [
-    "contributionarea: macOS forensics"
+  "contributionarea: macOS forensics"
 ],
 "10.1007/978-3-642-41148-9_24": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-642-41148-9_25": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 
 "10.1007/978-3-662-44952-3_1": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-662-44952-3_2": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-662-44952-3_3": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-662-44952-3_4": [
-    "contributionarea: social science"
+  "contributionarea: social science"
 ],
 "10.1007/978-3-662-44952-3_5": [
-    "contributionarea: browser forensics"
+  "contributionarea: browser forensics"
 ],
 "10.1007/978-3-662-44952-3_6": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-662-44952-3_7": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-662-44952-3_8": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-662-44952-3_9": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-662-44952-3_10": [
-    "contributionarea: fuzzy file comparison"
+  "contributionarea: fuzzy file comparison"
 ],
 "10.1007/978-3-662-44952-3_11": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-662-44952-3_12": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-662-44952-3_13": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-662-44952-3_14": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-662-44952-3_15": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-662-44952-3_16": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-662-44952-3_17": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-3-662-44952-3_18": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-662-44952-3_19": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-662-44952-3_20": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-662-44952-3_21": [
-    "contributionarea: forensic education"
+  "contributionarea: forensic education"
 ],
 "10.1007/978-3-662-44952-3_22": [
-    "contributionarea: forensic education"
+  "contributionarea: forensic education"
 ],
 
 "10.1007/978-3-319-24123-4_1": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-319-24123-4_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-24123-4_3": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-24123-4_4": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-3-319-24123-4_5": [
-    "contributionarea: cryptocurrency forensics"
+  "contributionarea: cryptocurrency forensics"
 ],
 "10.1007/978-3-319-24123-4_6": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-319-24123-4_7": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-319-24123-4_8": [
-    "threat modeling: logical attack graph",
-    "forensic tool: MulVAL",
-    "dataset",
-    "contributionarea: threat modeling",
-    "contribution: extend forensic tool MulVAL with abductive reasoning (guessing attack chain of events when not enough evidence?)",
-    "contribution: automate forensic interpretation using logical attack graphs"
+  "threat modeling: logical attack graph",
+  "forensic tool: MulVAL",
+  "dataset",
+  "contributionarea: threat modeling",
+  "contribution: extend forensic tool MulVAL with abductive reasoning (guessing attack chain of events when not enough evidence?)",
+  "contribution: automate forensic interpretation using logical attack graphs"
 ],
 "10.1007/978-3-319-24123-4_9": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1007/978-3-319-24123-4_10": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-319-24123-4_11": [
-    "contributionarea: database forensics"
+  "contributionarea: database forensics"
 ],
 "10.1007/978-3-319-24123-4_12": [
-    "contributionarea: encryption"
+  "contributionarea: encryption"
 ],
 "10.1007/978-3-319-24123-4_13": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-319-24123-4_14": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-319-24123-4_15": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-319-24123-4_16": [
-    "contributionarea: forensic readiness"
+  "contributionarea: forensic readiness"
 ],
 "10.1007/978-3-319-24123-4_17": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-319-24123-4_18": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-319-24123-4_19": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-319-24123-4_20": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 
 "10.1007/978-3-319-46279-0_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-46279-0_2": [
-    "contributionarea: forensic privacy"
+  "contributionarea: forensic privacy"
 ],
 "10.1007/978-3-319-46279-0_3": [
-    "contributionarea: forensic management"
+  "contributionarea: forensic management"
 ],
 "10.1007/978-3-319-46279-0_4": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-3-319-46279-0_5": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-319-46279-0_6": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-319-46279-0_7": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-46279-0_8": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-46279-0_9": [
-    "contributionarea: browser forensics"
+  "contributionarea: browser forensics"
 ],
 "10.1007/978-3-319-46279-0_10": [
-    "threat modeling: logical attack graph",
-    "threat modeling: probabilistic logical attack graph",
-    "threat modeling: evidence graph",
-    "contributionarea: threat modeling",
-    "contribution: map evidence graphs to bayesian network",
-    "contribution: automate forensic interpretation using probabilistic logical attack graphs"
+  "threat modeling: logical attack graph",
+  "threat modeling: probabilistic logical attack graph",
+  "threat modeling: evidence graph",
+  "contributionarea: threat modeling",
+  "contribution: map evidence graphs to bayesian network",
+  "contribution: automate forensic interpretation using probabilistic logical attack graphs"
 ],
 "10.1007/978-3-319-46279-0_11": [
-    "forensic tool: kumodd",
-    "cloud storage forensics",
-    "cloud app forensics",
-    "cloud app: google docs",
-    "cloud app: google sheets",
-    "contributionarea: api forensics"
+  "forensic tool: kumodd",
+  "cloud file storage forensics",
+  "cloud app forensics",
+  "cloud app: google docs",
+  "cloud app: google sheets",
+  "contributionarea: api forensics"
 ],
 "10.1007/978-3-319-46279-0_12": [
-    "contributionarea: piracy forensics"
+  "contributionarea: piracy forensics"
 ],
 "10.1007/978-3-319-46279-0_13": [
-    "contributionarea: chat app"
+  "contributionarea: chat app"
 ],
 "10.1007/978-3-319-46279-0_14": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-3-319-46279-0_15": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-319-46279-0_16": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-319-46279-0_17": [
-    "file type classification",
-    "contributionarea: file carving"
+  "file type classification",
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-319-46279-0_18": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-319-46279-0_19": [
-    "contributionarea: ram forensics"
+  "contributionarea: ram forensics"
 ],
 "10.1007/978-3-319-46279-0_20": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 
 
 "10.1007/978-3-319-67208-3_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-67208-3_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-67208-3_3": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-319-67208-3_4": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-67208-3_5": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-3-319-67208-3_6": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-67208-3_7": [
-    "cloud forensics",
-    "contributionarea: threat modeling",
-    "contribution: case study of applying logical attack graphs to cloud forensic artifacts"
+  "cloud forensics",
+  "contributionarea: threat modeling",
+  "contribution: case study of applying logical attack graphs to cloud forensic artifacts"
 ],
 "10.1007/978-3-319-67208-3_8": [
-    "contributionarea: cryptocurrency forensics"
+  "contributionarea: cryptocurrency forensics"
 ],
 "10.1007/978-3-319-67208-3_9": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-319-67208-3_10": [
-    "threat modeling: risk analysis",
-    "threat modeling: risk matrix",
-    "forensic process model",
-    "anti-forensics",
-    "contributionarea: threat modeling",
-    "contribution: assess probability of anti-forensics using threat modeling (risk analysis)"
+  "threat modeling: risk analysis",
+  "threat modeling: risk matrix",
+  "forensic process model",
+  "anti-forensics",
+  "contributionarea: threat modeling",
+  "contribution: assess probability of anti-forensics using threat modeling (risk analysis)"
 ],
 "10.1007/978-3-319-67208-3_11": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-319-67208-3_12": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-319-67208-3_13": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-319-67208-3_14": [
-    "contributionarea: forensic accounting"
+  "contributionarea: forensic accounting"
 ],
 "10.1007/978-3-319-67208-3_15": [
-    "contributionarea: correlation"
+  "contributionarea: correlation"
 ],
 "10.1007/978-3-319-67208-3_16": [
-    "contributionarea: encryption"
+  "contributionarea: encryption"
 ],
 
 "10.1007/978-3-319-99277-8_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-319-99277-8_2": [
-    "contributionarea: api forensics"
+  "contributionarea: api forensics"
 ],
 "10.1007/978-3-319-99277-8_3": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-99277-8_4": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-319-99277-8_5": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-319-99277-8_6": [
-    "contributionarea: filesystem forensics"
+  "contributionarea: filesystem forensics"
 ],
 "10.1007/978-3-319-99277-8_7": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-319-99277-8_8": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-319-99277-8_9": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-99277-8_10": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-99277-8_11": [
-    "contributionarea: network forensics"
+  "contributionarea: network forensics"
 ],
 "10.1007/978-3-319-99277-8_12": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-99277-8_13": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-319-99277-8_14": [
-    "contributionarea: api forensics"
+  "contributionarea: api forensics"
 ],
 "10.1007/978-3-319-99277-8_15": [
-    "threat modeling: logical attack graph",
-    "threat modeling: risk analysis",
-    "cloud forensics",
-    "contributionarea: threat modeling",
-    "contribution: estimate cyber attack impact (and risk) analysis using logical attack graph (relate attack graphs to business process model)"
+  "threat modeling: logical attack graph",
+  "threat modeling: risk analysis",
+  "cloud forensics",
+  "contributionarea: threat modeling",
+  "contribution: estimate cyber attack impact (and risk) analysis using logical attack graph (relate attack graphs to business process model)"
 ],
 "10.1007/978-3-319-99277-8_16": [
-    "contributionarea: anti-forensics"
+  "contributionarea: anti-forensics"
 ],
 "10.1007/978-3-319-99277-8_17": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-319-99277-8_18": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-3-319-99277-8_19": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 
 "10.1007/978-3-030-28752-8_1": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-030-28752-8_2": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-030-28752-8_3": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-030-28752-8_4": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-030-28752-8_5": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-030-28752-8_6": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-030-28752-8_7": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-3-030-28752-8_8": [
-    "contributionarea: file carving"
+  "contributionarea: file carving"
 ],
 "10.1007/978-3-030-28752-8_9": [
-    "contributionarea: windows forensics"
+  "contributionarea: windows forensics"
 ],
 "10.1007/978-3-030-28752-8_10": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-28752-8_11": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-28752-8_12": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-030-28752-8_13": [
-    "contributionarea: timeline analysis"
+  "contributionarea: timeline analysis"
 ],
 "10.1007/978-3-030-28752-8_14": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 
 "10.1007/978-3-030-56223-6_1": [
-    "contributionarea: forensic process model"
+  "contributionarea: forensic process model"
 ],
 "10.1007/978-3-030-56223-6_2": [
-    "contributionarea: timeline analysis"
+  "contributionarea: timeline analysis"
 ],
 "10.1007/978-3-030-56223-6_3": [
-    "contributionarea: timeline analysis"
+  "contributionarea: timeline analysis"
 ],
 "10.1007/978-3-030-56223-6_4": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-030-56223-6_5": [
-    "contributionarea: forensic dataset meta"
+  "contributionarea: forensic dataset meta"
 ],
 "10.1007/978-3-030-56223-6_6": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-3-030-56223-6_7": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-030-56223-6_8": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-030-56223-6_9": [
-    "cloud forensics",
-    "contributionarea: threat modeling"
+  "cloud forensics",
+  "contributionarea: threat modeling"
 ],
 "10.1007/978-3-030-56223-6_10": [
-    "contributionarea: cloud forensics"
+  "contributionarea: cloud forensics"
 ],
 "10.1007/978-3-030-56223-6_11": [
-    "contributionarea: sentiment analysis"
+  "contributionarea: sentiment analysis"
 ],
 "10.1007/978-3-030-56223-6_12": [
-    "contributionarea: chat app"
+  "contributionarea: chat app"
 ],
 "10.1007/978-3-030-56223-6_13": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-56223-6_14": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-56223-6_15": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-56223-6_16": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 
 "10.1007/978-3-030-88381-2_1": [
-    "threat modeling: kill chain",
-    "threat modeling",
-    "forensic process model",
-    "contributionarea: forensic process model",
-    "contribution: forensic process model (using kill chain) describing how forensic investigator attacks a mobile device in order to perform forensic acquisition"
+  "threat modeling: kill chain",
+  "threat modeling",
+  "forensic process model",
+  "contributionarea: forensic process model",
+  "contribution: forensic process model (using kill chain) describing how forensic investigator attacks a mobile device in order to perform forensic acquisition"
 ],
 "10.1007/978-3-030-88381-2_2": [
-    "contributionarea: ics forensics"
+  "contributionarea: industrial control system forensics"
 ],
 "10.1007/978-3-030-88381-2_3": [
-    "security",
-    "contributionarea: live forensics"
+  "security",
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-030-88381-2_4": [
-    "contributionarea: forensic triage"
+  "contributionarea: forensic triage"
 ],
 "10.1007/978-3-030-88381-2_5": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-030-88381-2_6": [
-    "contributionarea: mobile forensics"
+  "contributionarea: mobile forensics"
 ],
 "10.1007/978-3-030-88381-2_7": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-030-88381-2_8": [
-    "contributionarea: live forensics"
+  "contributionarea: live forensics"
 ],
 "10.1007/978-3-030-88381-2_9": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-030-88381-2_10": [
-    "network forensics",
-    "osint",
-    "machine learning",
-    "dataset",
-    "contributionarea: network forensics"
+  "network forensics",
+  "osint",
+  "machine learning",
+  "dataset",
+  "contributionarea: network forensics"
 ],
 "10.1007/978-3-030-88381-2_11": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-030-88381-2_12": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-030-88381-2_13": [
-    "iot forensics",
-    "security",
-    "contributionarea: forensic computing"
+  "iot forensics",
+  "security",
+  "contributionarea: forensic computing"
 ],
 
 "10.1007/978-3-031-10078-9_1": [
-    "contributionarea: filesystem forensics"
+  "contributionarea: filesystem forensics"
 ],
 "10.1007/978-3-031-10078-9_2": [
-    "contributionarea: malware"
+  "contributionarea: malware"
 ],
 "10.1007/978-3-031-10078-9_3": [
-    "contributionarea: forensic dataset meta"
+  "contributionarea: forensic dataset meta"
 ],
 "10.1007/978-3-031-10078-9_4": [
-    "contributionarea: iot forensics"
+  "contributionarea: iot forensics"
 ],
 "10.1007/978-3-031-10078-9_5": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-031-10078-9_6": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-031-10078-9_7": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-031-10078-9_8": [
-    "contributionarea: forensic computing"
+  "contributionarea: forensic computing"
 ],
 "10.1007/978-3-031-10078-9_9": [
-    "contributionarea: steganography"
+  "contributionarea: steganography"
 ],
 "10.1007/978-3-031-10078-9_10": [
-    "contributionarea: social media forensics"
+  "contributionarea: social media forensics"
 ],
 "10.1007/978-3-031-10078-9_11": [
-    "contributionarea: cryptocurrency forensics"
+  "contributionarea: cryptocurrency forensics"
 ],
 
 "10.1109/TIFS.2023.3235579": [
@@ -10180,7 +10180,316 @@
 
 "10.15394/jdfsl.2014.1180": [
   "contributionarea: threat modeling"
-]
+],
 
+"10.1016/j.fsidi.2023.301502": [
+  "macOS forensics",
+  "contributionarea: anti-forensics"
+],
+
+
+"10.1016/j.fsidi.2023.301510": [
+  "iot forensics",
+  "iiot forensics",
+  "iot devices: 3d-printer",
+  "forensic readiness",
+  "security",
+  "contributionarea: industrial control system forensics"
+],
+
+"10.1016/j.fsidi.2023.301512": [
+  "likelihood ratio",
+  "forensic data: geolocation",
+  "contributionarea: mobile forensics"
+],
+"10.1016/j.fsidi.2023.301513": [
+  "ram forensics",
+  "industrial control system forensics",
+  "jtag",
+  "iot forensics",
+  "iiot forensics",
+  "embedded forensics",
+  "contributionarea: ram forensics"
+],
+"10.1016/j.fsidi.2023.301514": [
+  "encryption",
+  "windows forensics",
+  "windows forensics: bitlocket",
+  "contributionarea: encryption"
+],
+"10.1016/j.fsidi.2023.301556": [
+  "editorial"
+],
+"10.1016/j.fsidi.2023.301557": [
+  "contributionarea: forensic dataset meta"
+],
+"10.1016/j.fsidi.2023.301558": [
+  "iot devices: dashcam",
+  "iot forensics",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301559": [
+  "iot devices: bluetooth tracker",
+  "iot device: Tile Tracker",
+  "iot forensics",
+  "remote forensics",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301560": [
+  "iot devices: smart camera / cctv",
+  "iot device: Tile Tracker",
+  "mobile forensics",
+  "android",
+  "iphone",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301561": [
+  "forensic tool: volatility",
+  "windows forensics",
+  "malware",
+  "contributionarea: ram forensics"
+],
+"10.1016/j.fsidi.2023.301562": [
+  "theoretical",
+  "taxonomy",
+  "contributionarea: forensic dataset meta"
+],
+"10.1016/j.fsidi.2023.301563": [
+  "live forensics",
+  "visualization",
+  "forensic interpretation",
+  "contributionarea: network forensics"
+],
+"10.1016/j.fsidi.2023.301564": [
+  "ram forensics",
+  "contributionarea: malware"
+],
+"10.1016/j.fsidi.2023.301565": [
+  "industrial control system forensics",
+  "reverse engineering",
+  "contributionarea: network forensics"
+],
+"10.1016/j.fsidi.2023.301566": [
+  "forensic dataset meta",
+  "social science",
+  "contributionarea: forensic education"
+],
+"10.1016/j.fsidi.2023.301567": [
+  "ram forensics",
+  "contributionarea: database forensics"
+],
+"10.1016/j.fsidi.2023.301568": [
+  "windows forensics",
+  "encryption",
+  "api forensics",
+  "contributionarea: api forensics"
+],
+"10.1016/j.fsidi.2023.301569": [
+  "encryption",
+  "encryption: 2fa",
+  "mobile forensics",
+  "contributionarea: api forensics"
+],
+"10.1016/j.fsidi.2023.301570": [
+  "contributionarea: fuzzy file comparison"
+],
+"10.1016/j.fsidi.2023.301571": [
+  "windows server",
+  "filesystem forensics",
+  "filesystem: NTFS",
+  "contributionarea: windows forensics"
+],
+"10.1016/j.fsidi.2023.301572": [
+  "live forensics",
+  "malware",
+  "malware: ransomware",
+  "encryption",
+  "contributionarea: malware"
+],
+"10.1016/j.fsidi.2023.301573": [
+  "forensic computing",
+  "surveillance",
+  "forensic data: video",
+  "contributionarea: forensic computing"
+],
+"10.1016/j.fsidi.2023.301574": [
+  "forensic tools evaluation",
+  "dataset",
+  "dataset: m57 patents",
+  "contributionarea: file type classification"
+],
+"10.1016/j.fsidi.2023.301575": [
+  "contributionarea: cryptocurrency forensics"
+],
+"10.1016/j.fsidi.2023.301576": [
+  "contributionarea: cryptocurrency forensics"
+],
+"10.1016/j.fsidi.2023.301577": [
+  "editorial"
+],
+"10.1016/j.fsidi.2023.301585": [
+  "anti-forensics: disappearing message chat app features",
+  "mobile forensics",
+  "contributionarea: chat app"
+],
+"10.1016/j.fsidi.2023.301587": [
+  "filesystem forensics",
+  "contributionarea: mobile forensics"
+],
+"10.1016/j.fsidi.2023.301600": [
+  "iot forensics",
+  "live forensics",
+  "knowledge graph",
+  "contributionarea: network forensics"
+],
+"10.1016/j.fsidi.2023.301601": [
+  "forensic process model",
+  "ontology",
+  "network forensics",
+  "theoretical",
+  "contributionarea: forensic process model"
+],
+"10.1016/j.fsidi.2023.301602": [
+  "mobile forensics",
+  "real world forensic case",
+  "real world forensic case: encrochat",
+  "legal",
+  "contributionarea: chat app"
+],
+"10.1016/j.fsidi.2023.301603": [
+  "ram forensics",
+  "malware",
+  "contributionarea: live forensics"
+],
+"10.1016/j.fsidi.2023.301604": [
+  "darknet",
+  "osint",
+  "contributionarea: surveillance"
+],
+"10.1016/j.fsidi.2023.301605": [
+  "contributionarea: database forensics"
+],
+"10.1016/j.fsidi.2023.301606": [
+  "iot forensics",
+  "iot devices: bike computer (health and gps)",
+  "health app",
+  "file carving",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301607": [
+  "windows forensics",
+  "windows server",
+  "filesystem: ReFS",
+  "filesystem forensics",
+  "contributionarea: anti-forensics"
+],
+"10.1016/j.fsidi.2023.301608": [
+  "iot forensics",
+  "iot devices: virtual reality (VR) headset",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301609": [
+  "AI-assisted forensics: chatGPT",
+  "large language model",
+  "contributionarea: AI-assisted forensics"
+],
+"10.1016/j.fsidi.2023.301610": [
+  "linux forensics",
+  "ram forensics",
+  "cloud forensics",
+  "contributionarea: ram forensics"
+],
+"10.1016/j.fsidi.2023.301611": [
+  "api forensics",
+  "remote forensics",
+  "piracy forensics",
+  "contributionarea: cloud file storage forensics"
+],
+"10.1016/j.fsidi.2023.301612": [
+  "cloud app: office 365",
+  "browser forensics",
+  "windows forensics",
+  "contributionarea: cloud file storage forensics"
+],
+"10.1016/j.fsidi.2023.301613": [
+  "browser forensics",
+  "forensic tool: volatility",
+  "contributionarea: ram forensics"
+],
+"10.1016/j.fsidi.2023.301614": [
+  "contributionarea: cryptocurrency forensics"
+],
+"10.1016/j.fsidi.2023.301616": [
+  "source identification: camera",
+  "contributionarea: forensic computing"
+],
+"10.1016/j.fsidi.2023.301617": [
+  "literature review",
+  "contributionarea: AI-assisted forensics"
+],
+"10.1016/j.fsidi.2023.301618": [
+  "macOS forensics",
+  "malware",
+  "security",
+  "contributionarea: malware"
+],
+"10.1016/j.fsidi.2023.301619": [
+  "geographic crime analysis",
+  "dataset",
+  "contributionarea: surveillance"
+],
+"10.1016/j.fsidi.2023.301620": [
+  "osint",
+  "darknet",
+  "dataset",
+  "child abuse material",
+  "contributionarea: surveillance"
+],
+"10.1016/j.fsidi.2023.301621": [
+  "ontology",
+  "forensic education",
+  "forensic interpretation",
+  "contributionarea: forensic process model"
+],
+"10.1016/j.fsidi.2023.301622": [
+  "osint",
+  "contributionarea: forensic education"
+],
+"10.1016/j.fsidi.2023.301623": [
+  "contributionarea: forensic computing"
+],
+"10.1016/j.fsidi.2023.301624": [
+  "smartwatch",
+  "smartwatch: Vivosmart 4",
+  "health app: garmin connect",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301627": [
+  "editorial"
+],
+"10.1016/j.fsidi.2023.301628": [
+  "editorial"
+],
+"10.1016/j.fsidi.2023.301637": [
+  "contributionarea: forensic computing"
+],
+"10.1016/j.fsidi.2023.301657": [
+  "forensic interpretation",
+  "forensic theoretical framework",
+  "forensic reliability",
+  "contributionarea: forensic process model"
+],
+"10.1016/j.fsidi.2023.301658": [
+  "iot forensics",
+  "iot devices: virtual reality (VR) headset",
+  "contributionarea: iot forensics"
+],
+"10.1016/j.fsidi.2023.301659": [
+  "encryption",
+  "chat app: cisco webex",
+  "videochat app: cisco webex",
+  "api forensics",
+  "contributionarea: chat app"
+]
 
 }

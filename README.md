@@ -5,12 +5,16 @@ an overview of various subareas in the field.
 
 ## TODO
 * maybe use full doi-urls instead of just DOIs? some conferences do not have dois (and we therefore need to use other urls for those), so having both be urls makes things more consistent.
-* clean up old tags
 * generate pretty graphs (and post them in this readme)
 * review "contribution areas" tags for misclassifications.
 * Write a "contribution" summary for every paper.
-* Rename some tags and write explanations (since the semantics of some tags
-  is non obvious and tend to drift through the process).
+* Rename some tags
+    * swap "live forensics" and "online forensics". Currently the "live forensics" tag is used when the paper is about monitoring of a system before and during an incident, meanwhile "online forensics" is used when the paper is about performing a forensic acquisition of a system while it is running. These tags should be renamed to make this distinction clearer (maybe "forensic monitoring" and "live system forensic acquisition"?).
+    * "forensic interpretation" vs "forensic reasoning"
+    * "encryption". Currently means anything security-related that the investigator needs to bypass, which may or may not involve cryptography). Maybe "forensic security bypass"?
+    * "social media forensics". Currently mainly refers to [Social Media Network Graph Analysis](https://en.wikipedia.org/wiki/Social_network_analysis) as applied in forensics, but also various OSINT-type analysis (e.g. analyzing webpages on the darknet to say things about criminal behavior there). Probably need to split into multiple tags.
+* document/explain tag meanings/semantics (especially since the semantics of some tags is non obvious and tend to drift through the process).
+    * inclusion/exclusion criteria
 * More papers
 * TODO include theses, books, standards and tools?
 * TODO tag quality of paper?
@@ -30,7 +34,10 @@ an overview of various subareas in the field.
 * TODO FBI forensic sciences communications? https://archives.fbi.gov/archives/about-us/lab/forensic-science-communications/fsc/archives
 * TODO check for DFRWS papers that are not on DI
 * TODO include korean DF journals?
-* TODo International Association of Forensic Sciences (IAFS)?
+* TODO International Association of Forensic Sciences (IAFS)?
+* TODO International Workshop on Computational Forensics (IWCF)?
+* TODO International Conference on IT Security Incident Management and IT Forensics
+
 
 ## Sources (for DOIs/URLs)
 * Digital Investigation (aka "Forensic Science International: Digital Investigation"):
@@ -79,5 +86,6 @@ On the next page, delete the `query` parameter from the url. There is a download
 1. Open one at a time and skim the title and abstract. If the abstract is
    ambiguous, skim the "conclusion"-section of the paper. If the conclusion is ambigious, skim rest of the paper.
     * for TIFS and WIFS I cheated a little and searched among the paper titles (e.g. for "camera" and "jpeg") and then if the classification seemed obvious for all titles then I mass-labelled the search results.
-1. Decide on tags/themes/keywords as we go. Hierarchically classify (i.e. do a
-   rough classification first and then classify each subgroup in more detail, fix misclassifications as we go).
+1. Decide on tags/themes/keywords as we go. Hierarchically classify (i.e. do a rough classification first and then classify each subgroup in more detail, fix misclassifications as we go). Iterate.
+    * Maybe define taxonomy and then make sure everything is consistent with the taxonomy.
+1. Use rough classification to filter articles for more thorough analysis.

@@ -46,6 +46,7 @@ num_done = len(done)
 num_left = num_tot - num_done
 done_percentage = num_done / num_tot * 100
 
+print('### rough classification progress ###')
 print(f'{num_done}/{num_tot} ({done_percentage:.2f}%) num_left={num_left}')
 
 for venue in dois_by_venue:
